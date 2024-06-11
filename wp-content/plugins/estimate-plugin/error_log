@@ -1,0 +1,2 @@
+[20-Mar-2019 22:14:22 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/smartdata/public_html/car-repair-service/wp-content/plugins/estimate-plugin/search-form.php on line 6
+[20-Mar-2019 22:14:30 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/smartdata/public_html/car-repair-service/wp-content/plugins/estimate-plugin/search-form.php on line 6

@@ -1,0 +1,26 @@
+ /*
+Theme Name:     Car Repair Services Child
+Theme URI:     https://smartdata.tonytemplates.com/car-repair-service/
+Description:    Child theme for Car Repair Services
+Author:         Smartdatasoft Team
+Author URI:     https://themeforest.net/user/smartdatasoft
+Template:       car-repair-services
+Version:        1.0
+*/
+
+/* ----------------------------------------------------------------------------
+ * Child Theme Style.css styles begin here!
+ * ------------------------------------------------------------------------- */
+
+
+ #post-56 > div > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-9f58e4e.elementor-section-stretched.elementor-section-full_width.elementor-section-height-default.elementor-section-height-default {
+    margin-top: 0px !important;
+ }
+ #slide-nav .hours-header {
+   display: flex;
+   flex-direction: column;
+ }
+#slidemenu .row .col-md-11 {
+   display: flex;
+   justify-content: center;
+ }

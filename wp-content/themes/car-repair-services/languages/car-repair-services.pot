@@ -1,0 +1,2452 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Car Repair Services\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-13 11:30+0600\n"
+"PO-Revision-Date: 2018-07-18 10:21+0600\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SmartDataSoft <support@smartdatasoft.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_html_e;esc_attr_e;"
+"esc_html__\n"
+"X-Poedit-Basepath: /Users/oo/Sites/localhost/wp-themes/car-repair/wp-content/themes/"
+"car-repair-services\n"
+"Last-Translator: \n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:20
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links below "
+"or a search?"
+msgstr ""
+
+#: archive.php:119 inc/post_meta.php:25 index.php:171 index.php:176
+msgid "by"
+msgstr ""
+
+#: archive.php:121 index.php:173
+msgid "1"
+msgstr ""
+
+#: archive.php:121 index.php:173
+msgid "%"
+msgstr ""
+
+#: archive.php:127 index.php:267
+msgid "Read more"
+msgstr ""
+
+#: comments.php:32
+msgid "Comment (1)"
+msgstr ""
+
+#: comments.php:65 comments.php:155
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:79 comments.php:85 comments.php:167
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:82 comments.php:168
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr ""
+
+#: comments.php:83 comments.php:169
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:92 comments.php:179
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:98 comments.php:185
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this "
+"account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:105 comments.php:192
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:170 inc/template-tags-2.php:232
+msgid "Reply"
+msgstr ""
+
+#: comments.php:173
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: comments.php:198 woocommerce/single-product-reviews.php:90
+#: woocommerce/single-product-reviews.php:196
+msgid "Name"
+msgstr ""
+
+#: comments.php:203 woocommerce/single-product-reviews.php:92
+#: woocommerce/single-product-reviews.php:198
+msgid "Email"
+msgstr ""
+
+#: comments.php:210
+msgid "Website"
+msgstr ""
+
+#: css/custom_style-2.php:821 css/custom_style.php:694
+#: framework/dashboard/admin/system-status.php:230
+#: framework/dashboard/admin/system-status.php:394
+#: framework/dashboard/class-car-repair-services-dashboard.php:177
+#: framework/dashboard/class-car-repair-services-dashboard.php:373
+#: framework/dashboard/class-car-repair-services-dashboard.php:377
+#: inc/template-tags-2.php:29 index.php:176 template-parts/content.php:19
+#: template-parts/content.php:66 template-parts/footer/footer-1.php:80
+#: template-parts/footer/footer-2.php:19 template-parts/footer/footer-2.php:176
+#: template-parts/modal-sm.php:24 template-parts/modal.php:20
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:332 framework/config.tgm.php:116
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:333 framework/config.tgm.php:117
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:335 framework/config.tgm.php:118
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:338 framework/config.tgm.php:119
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:390 framework/config.tgm.php:130
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:391
+#: framework/class-tgm-plugin-activation.php:917
+#: framework/class-tgm-plugin-activation.php:2649
+#: framework/class-tgm-plugin-activation.php:3737
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:392
+#: framework/class-tgm-plugin-activation.php:3312 framework/config.tgm.php:131
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:393
+msgid "The following plugin was activated successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:395
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:397
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please "
+"update the plugin."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:400
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:401
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:402
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:606
+msgid "Update Required"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1026
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug and "
+"renaming did not work."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1026
+#: framework/class-tgm-plugin-activation.php:1036
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin according "
+"to the WordPress guidelines."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1036
+msgid ""
+"The remote plugin package consists of more than one file, but the files are not "
+"packaged in a folder."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2095
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2389
+msgid "Required"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2392
+msgid "Recommended"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2408
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2411
+msgid "External Source"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2414
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2431
+msgid "Not Installed"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2435
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2437
+msgid "Active"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2443
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2446
+msgid "Requires Update"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2449
+msgid "Update recommended"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2458
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2508
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:2512
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:2516
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:2598
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2606
+msgid "Installed version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2614
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2626
+msgid "Available version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2649
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2663
+msgid "Plugin"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2664
+msgid "Source"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2665
+msgid "Type"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2669
+msgid "Version"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2670
+msgid "Status"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2717
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2722
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2727
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2739
+#: framework/class-tgm-plugin-activation.php:2748
+msgid "Need to Active with Purchase Code"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2744
+msgid "Need to active with Purchase Code"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2837
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2870
+msgid "Install"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2876
+msgid "Update"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2879
+msgid "Activate"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2910
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2912
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2953
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2955
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3061
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3087
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3105
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:3311
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3655
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3658
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3660
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3664
+msgid ""
+"The installation and activation process is starting. This process may take a while "
+"on some hosts, so please be patient."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3666
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3666
+#: framework/class-tgm-plugin-activation.php:3674
+msgid "Show Details"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3666
+#: framework/class-tgm-plugin-activation.php:3674
+msgid "Hide Details"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3667
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3669
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3672
+msgid ""
+"The installation process is starting. This process may take a while on some hosts, "
+"so please be patient."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3674
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3675
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:3677
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/config.tgm.php:17
+msgid "Envato Market"
+msgstr ""
+
+#: framework/config.tgm.php:26
+msgid "Elementor"
+msgstr ""
+
+#: framework/config.tgm.php:34
+msgid "Woocommerce"
+msgstr ""
+
+#: framework/config.tgm.php:42
+msgid "Redux Framework"
+msgstr ""
+
+#: framework/config.tgm.php:50
+msgid "Meta Box"
+msgstr ""
+
+#: framework/config.tgm.php:59
+msgid "Contact Form 7"
+msgstr ""
+
+#: framework/config.tgm.php:67
+msgid "Yoast SEO"
+msgstr ""
+
+#: framework/config.tgm.php:75
+msgid "Cookie Notice for GDPR"
+msgstr ""
+
+#: framework/config.tgm.php:132
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: framework/dashboard/admin/activation.php:8
+msgid "Theme License Options"
+msgstr ""
+
+#: framework/dashboard/admin/activation.php:10
+msgid ""
+"First enter your license key in the below field  and click the button \"Save Changes"
+"\". After saving \"Activate License\" Button will be visible."
+msgstr ""
+
+#: framework/dashboard/admin/activation.php:11
+msgid "Then click \"Activate License\" button for active theme."
+msgstr ""
+
+#: framework/dashboard/admin/activation.php:19
+msgid "Your Email"
+msgstr ""
+
+#: framework/dashboard/admin/activation.php:23
+msgid ""
+"We will send update news of this product by this email address. Don't worry, we "
+"hate spam"
+msgstr ""
+
+#: framework/dashboard/admin/activation.php:28
+msgid "License Key"
+msgstr ""
+
+#: framework/dashboard/admin/activation.php:58
+#: framework/dashboard/admin/activation.php:66
+msgid "Activate License"
+msgstr ""
+
+#: framework/dashboard/admin/activation.php:63
+msgid "Deactivate License"
+msgstr ""
+
+#: framework/dashboard/admin/demo-content-install.php:3
+msgid "You need to Install and Active Demo Importer Plugin For Demo Import."
+msgstr ""
+
+#: framework/dashboard/admin/getting-started.php:12
+msgid "Implement Recommended Actions"
+msgstr ""
+
+#: framework/dashboard/admin/getting-started.php:14
+#, php-format
+msgid ""
+"Thank you so much for your purchase of SmartDataSoft's %s theme! %s theme is "
+"designed for you with different layouts, one-click demo installation, wonderful and "
+"unique designs, amazing content blocks, get the price section, SEO friendly, Sticky "
+"menu, WooCommerce and lots more. Enjoy!"
+msgstr ""
+
+#: framework/dashboard/admin/getting-started.php:18
+msgid ""
+"If you had like to get support from our team please open up a support ticket at "
+"first. Our support engineers are always ready to get back to you ASAP."
+msgstr ""
+
+#: framework/dashboard/admin/plugin.php:28
+msgid "Recommended Plugins"
+msgstr ""
+
+#: framework/dashboard/admin/support.php:11
+#, php-format
+msgid ""
+"%1$s provides free support for 6 months for every LICENSE you purchase. You are "
+"also able to extend support through subscriptions via ThemeForest. \n"
+"              Our support center will handle all supports from our company website. "
+"Follow these steps to get access to your support. \n"
+"              %2$s community are given below. You are also able to extend support "
+"through subscriptions via ThemeForest . Our support center will handle all supports "
+"from our company website .\n"
+"\t\t\t\t\tFollow these steps to get access to your support . % s community are "
+"given below . "
+msgstr ""
+
+#: framework/dashboard/admin/support.php:25
+msgid ""
+"Please remember! Our support time is Monday to Friday 8.00AM to 05.00PM (GMT 6+). "
+"We're very grateful for your patience during the off days."
+msgstr ""
+
+#: framework/dashboard/admin/support.php:31
+msgid "Submit A Ticket"
+msgstr ""
+
+#: framework/dashboard/admin/support.php:32
+msgid ""
+"Register your purchase first and get access to our support service and other "
+"resources to let us provide you our excellent support."
+msgstr ""
+
+#: framework/dashboard/admin/support.php:33
+msgid "Submit a ticket"
+msgstr ""
+
+#: framework/dashboard/admin/support.php:35 framework/dashboard/admin/support.php:37
+msgid "Documentation"
+msgstr ""
+
+#: framework/dashboard/admin/support.php:36
+msgid ""
+"If you want to get the whole ball of wax of our theme, this is the place for you to "
+"check. It has an incredible reserve of information for different aspects of life."
+msgstr ""
+
+#: framework/dashboard/admin/support.php:39 framework/dashboard/admin/support.php:41
+msgid "Video Tutorials"
+msgstr ""
+
+#: framework/dashboard/admin/support.php:40
+msgid ""
+"Video tutorials are one of the best ways to learn something, right? We provide "
+"tutorials in our youtube channel. Subscribe and get access to a library of high "
+"definition, easily narrated video tutorials. Dont forget to click the bell button "
+"to get notified every time we upload a video."
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:147
+msgid "Please copy and paste this information in your ticket when contacting support:"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:150
+msgid "Get system report"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:157
+msgid "Copy for support"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:161
+msgid "Copying to clipboard failed. Please press Ctrl/Cmd+C to copy."
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:168
+msgid "WordPress environment"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:173
+msgid "Home URL"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:180
+msgid "Site URL"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:187
+msgid "Theme version"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:195
+msgid "WordPress version"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:217
+#, php-format
+msgid "%1$s - There is a newer version of WordPress available (%2$s)"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:225
+msgid "WordPress multisite"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:234
+msgid "WordPress memory limit"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:241
+#, php-format
+msgid "%1$s - We recommend setting memory to at least 64MB. See: %2$s"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:241
+msgid "Increasing memory allocated to PHP"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:249
+msgid "WordPress debug mode"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:262
+msgid "WordPress cron"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:275
+msgid "Language"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:282
+msgid "External object cache"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:299
+msgid "Server environment"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:304
+msgid "PHP version"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:313
+msgid "How to update your PHP version"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:317
+msgid ""
+"WooCommerce will run under this version of PHP, however, some features such as "
+"geolocation are not compatible. Support for this version will be dropped in the "
+"next major release. We recommend using PHP version 7.2 or above for greater "
+"performance and security."
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:319
+msgid ""
+"WooCommerce will run under this version of PHP, however, it has reached end of "
+"life. We recommend using PHP version 7.2 or above for greater performance and "
+"security."
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:321
+msgid ""
+"We recommend using PHP version 7.2 or above for greater performance and security."
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:332
+msgid "PHP post max size"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:340
+msgid "PHP time limit"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:347
+msgid "Minimum value is 300. "
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:353
+msgid "600 is recommanded. "
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:356
+msgid "Current time limit is sufficient. "
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:362
+msgid "PHP max input vars"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:368
+msgid "Minimum value is 1000. "
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:374
+msgid "2000 is recommanded. "
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:377
+msgid ""
+"3000 or more may be required if you use lot of plugins use or you have large amount "
+"of menu item."
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:382
+msgid "cURL version"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:389
+msgid "SUHOSIN installed"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:406
+msgid "MySQL version"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:414
+#, php-format
+msgid "%1$s - We recommend a minimum MySQL version of 5.6. See: %2$s"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:414
+msgid "WordPress requirements"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:423
+msgid "Max upload size"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:430
+msgid "Default timezone is UTC"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:438
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:446
+msgid "fsockopen/cURL"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:455
+msgid ""
+"Your server does not have fsockopen or cURL enabled - PayPal IPN and other scripts "
+"which communicate with other servers will not work. Contact your hosting provider."
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:461
+msgid "SoapClient"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:470
+#, php-format
+msgid ""
+"Your server does not have the %s class enabled - some gateway plugins which use "
+"SOAP may not work as expected."
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:476
+msgid "DOMDocument"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:485
+#, php-format
+msgid ""
+"Your server does not have the %s class enabled - HTML/Multipart emails, and also "
+"some extensions, will not work without DOMDocument."
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:491
+msgid "GZip"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:500
+#, php-format
+msgid ""
+"Your server does not support the %s function - this is required to use the GeoIP "
+"database from MaxMind."
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:506
+msgid "Multibyte string"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:515
+#, php-format
+msgid ""
+"Your server does not support the %s functions - this is required for better "
+"character encoding. Some fallbacks will be used instead for it."
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:521
+msgid "Remote post"
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:530
+#: framework/dashboard/admin/system-status.php:545
+#, php-format
+msgid "%s failed. Contact your hosting provider."
+msgstr ""
+
+#: framework/dashboard/admin/system-status.php:536
+msgid "Remote get"
+msgstr ""
+
+#: framework/dashboard/admin/wellcome.php:1
+#, php-format
+msgid "Welcome to %1$s"
+msgstr ""
+
+#: framework/dashboard/admin/wellcome.php:4
+#, php-format
+msgid ""
+"Thank you so much for using %s Theme! Please <a href=\"?page=%sproduct-registration"
+"\">activate your product</a> to get updates, to get demo content, automatic plugins "
+"updates and theme support. Check out the support tab to learn more about our "
+"support. We hope you enjoy it!"
+msgstr ""
+
+#: framework/dashboard/class-car-repair-services-dashboard.php:120
+#, php-format
+msgid ""
+"To receive automatic updates license activation is required. Please visit <a href="
+"\"%s\">Setting</a> page."
+msgstr ""
+
+#: framework/dashboard/class-car-repair-services-dashboard.php:169
+msgid "License Activated"
+msgstr ""
+
+#: framework/dashboard/class-car-repair-services-dashboard.php:173
+msgid "License Deactiveted"
+msgstr ""
+
+#: framework/dashboard/class-car-repair-services-dashboard.php:184
+msgid "License Key saved"
+msgstr ""
+
+#: framework/dashboard/class-car-repair-services-dashboard.php:188
+msgid "License Key blank"
+msgstr ""
+
+#: framework/dashboard/class-car-repair-services-dashboard.php:285
+msgid "Require Activation"
+msgstr ""
+
+#: framework/dashboard/class-car-repair-services-dashboard.php:285
+#, php-format
+msgid ""
+"%s Theme Need to active with purchase code. Otherwise you can't Active / Update "
+"Bundle Plugin. You can active from <a href='%s'>Here</a>."
+msgstr ""
+
+#: framework/dashboard/class-car-repair-services-dashboard.php:286
+msgid "Dismiss this notice."
+msgstr ""
+
+#: framework/dashboard/class-car-repair-services-dashboard.php:324
+msgid "Copied!"
+msgstr ""
+
+#: framework/dashboard/class-car-repair-services-dashboard.php:353
+msgid "Getting Started"
+msgstr ""
+
+#: framework/dashboard/class-car-repair-services-dashboard.php:354
+msgid "Registration"
+msgstr ""
+
+#: framework/dashboard/class-car-repair-services-dashboard.php:355
+msgid "System Status"
+msgstr ""
+
+#: framework/dashboard/class-car-repair-services-dashboard.php:356
+msgid "Plugins"
+msgstr ""
+
+#: framework/dashboard/class-car-repair-services-dashboard.php:359
+#: framework/dashboard/class-car-repair-services-dashboard.php:361
+msgid "Demo Import"
+msgstr ""
+
+#: framework/dashboard/class-car-repair-services-dashboard.php:364
+msgid "Icon Add"
+msgstr ""
+
+#: framework/dashboard/class-car-repair-services-dashboard.php:366
+msgid "Support"
+msgstr ""
+
+#: framework/framework_customize.php:23 framework/framework_customizer.php:23
+msgid "Styling Settings"
+msgstr ""
+
+#: framework/framework_customize.php:24 framework/framework_customizer.php:24
+msgid "All Styling Settings"
+msgstr ""
+
+#: framework/framework_customize.php:34
+msgid "Common Colors"
+msgstr ""
+
+#: framework/framework_customize.php:47 framework/framework_customizer.php:44
+msgid "Preloader Color"
+msgstr ""
+
+#: framework/framework_customize.php:60 framework/framework_customizer.php:152
+#: framework/framework_customizer.php:177
+msgid "Link Color"
+msgstr ""
+
+#: framework/framework_customizer.php:31
+msgid "Common Color"
+msgstr ""
+
+#: framework/framework_customizer.php:55
+msgid "Body text Color"
+msgstr ""
+
+#: framework/framework_customizer.php:67
+msgid "Theme Active Color"
+msgstr ""
+
+#: framework/framework_customizer.php:79
+msgid "Theme Common Bg Color"
+msgstr ""
+
+#: framework/framework_customizer.php:91
+msgid "Theme Common Text Color"
+msgstr ""
+
+#: framework/framework_customizer.php:103
+msgid "Theme Appointment Bg Color"
+msgstr ""
+
+#: framework/framework_customizer.php:115
+msgid "Theme Appointment Angle Bg Color"
+msgstr ""
+
+#: framework/framework_customizer.php:127
+msgid "Common Border Color"
+msgstr ""
+
+#: framework/framework_customizer.php:139
+msgid "Services Icon Shadow"
+msgstr ""
+
+#: framework/framework_customizer.php:164
+msgid "link hover color"
+msgstr ""
+
+#: framework/framework_customizer.php:191
+msgid "Link Hover Color"
+msgstr ""
+
+#: framework/framework_customizer.php:203
+msgid "Heading Active Color"
+msgstr ""
+
+#: framework/framework_customizer.php:215
+msgid "Heading Black Color"
+msgstr ""
+
+#: framework/framework_customizer.php:227
+msgid "Heading White Color"
+msgstr ""
+
+#: framework/framework_customizer.php:239
+msgid "Text White color"
+msgstr ""
+
+#: framework/framework_customizer.php:251
+msgid "Icon Color White"
+msgstr ""
+
+#: framework/framework_customizer.php:263
+msgid "Icon Color"
+msgstr ""
+
+#: framework/framework_customizer.php:276
+msgid "Menu Link Color"
+msgstr ""
+
+#: framework/framework_customizer.php:288
+msgid "Menu Border Color"
+msgstr ""
+
+#: framework/framework_customizer.php:300
+msgid "Search Button Hover"
+msgstr ""
+
+#: framework/framework_customizer.php:312
+msgid "Slider Color"
+msgstr ""
+
+#: framework/framework_customizer.php:324
+msgid "Slider First Text Color"
+msgstr ""
+
+#: framework/framework_customizer.php:336
+msgid "Slider Big Text Color"
+msgstr ""
+
+#: framework/framework_customizer.php:348
+msgid "Slider Navigation Color"
+msgstr ""
+
+#: framework/framework_customizer.php:360
+msgid "Slider Navigation Hover Color"
+msgstr ""
+
+#: framework/framework_customizer.php:372
+msgid "Slider Bullet color"
+msgstr ""
+
+#: framework/framework_customizer.php:380
+msgid "Button Color"
+msgstr ""
+
+#: framework/framework_customizer.php:392
+msgid "Button Bg One Color"
+msgstr ""
+
+#: framework/framework_customizer.php:404
+msgid "Button Text Color"
+msgstr ""
+
+#: framework/framework_customizer.php:416
+msgid "Button Bg Hover Color"
+msgstr ""
+
+#: framework/framework_customizer.php:428
+msgid "Button Hover Text Color"
+msgstr ""
+
+#: framework/framework_customizer.php:440
+msgid "Button Two Bg Color"
+msgstr ""
+
+#: framework/framework_customizer.php:452
+msgid "Button Two Text Color"
+msgstr ""
+
+#: framework/framework_customizer.php:468 framework/framework_customizer.php:665
+msgid "Button Border Color"
+msgstr ""
+
+#: framework/framework_customizer.php:480
+msgid "Button Hover Color"
+msgstr ""
+
+#: framework/framework_customizer.php:492
+msgid "Button Two Hover Text Color"
+msgstr ""
+
+#: framework/framework_customizer.php:500
+msgid "Pricing Color"
+msgstr ""
+
+#: framework/framework_customizer.php:512
+msgid "Pricing Bg Color"
+msgstr ""
+
+#: framework/framework_customizer.php:524
+msgid "Pricing Border Color"
+msgstr ""
+
+#: framework/framework_customizer.php:532
+msgid "Coupons Color"
+msgstr ""
+
+#: framework/framework_customizer.php:545
+msgid "Coupons Title"
+msgstr ""
+
+#: framework/framework_customizer.php:557
+msgid "Coupons Title2"
+msgstr ""
+
+#: framework/framework_customizer.php:569
+msgid "Coupons Subtitle"
+msgstr ""
+
+#: framework/framework_customizer.php:581
+msgid "Coupons Subtitle 2"
+msgstr ""
+
+#: framework/framework_customizer.php:593
+msgid "Expire Date"
+msgstr ""
+
+#: framework/framework_customizer.php:605
+msgid "Expire Date 2"
+msgstr ""
+
+#: framework/framework_customizer.php:617
+msgid "Offer Color"
+msgstr ""
+
+#: framework/framework_customizer.php:629
+msgid "Offer Color 2"
+msgstr ""
+
+#: framework/framework_customizer.php:641
+msgid "Coupons Button Color"
+msgstr ""
+
+#: framework/framework_customizer.php:653
+msgid "Coupons Button Text Color"
+msgstr ""
+
+#: framework/framework_customizer.php:677
+msgid "Button Border Color 2"
+msgstr ""
+
+#: framework/framework_customizer.php:689
+msgid "Coupons Button Hover Color"
+msgstr ""
+
+#: framework/framework_customizer.php:702 framework/framework_customizer.php:850
+msgid "Cart Icon Hover Color"
+msgstr ""
+
+#: framework/framework_customizer.php:708
+msgid "Auto Search Plugin Color"
+msgstr ""
+
+#: framework/framework_customizer.php:720
+msgid "Auto Search Icon Color"
+msgstr ""
+
+#: framework/framework_customizer.php:732 framework/framework_customizer.php:757
+msgid "Auto Search Button Color"
+msgstr ""
+
+#: framework/framework_customizer.php:744 framework/framework_customizer.php:769
+msgid "Auto Search Button Text Color"
+msgstr ""
+
+#: framework/framework_customizer.php:780
+msgid "Shop Color"
+msgstr ""
+
+#: framework/framework_customizer.php:792
+msgid "Shop Button Bg Color"
+msgstr ""
+
+#: framework/framework_customizer.php:804
+msgid "Shop filter Color"
+msgstr ""
+
+#: framework/framework_customizer.php:816
+msgid "Shop Sale level Color"
+msgstr ""
+
+#: framework/framework_customizer.php:827
+msgid "Shop Sale level Text Color"
+msgstr ""
+
+#: framework/framework_customizer.php:838
+msgid "Shop Rating Color"
+msgstr ""
+
+#: framework/framework_customizer.php:862
+msgid "Shop Pagination Bg Color"
+msgstr ""
+
+#: framework/framework_customizer.php:874
+msgid "Shop Pagination Text Color"
+msgstr ""
+
+#: framework/framework_customizer.php:886
+msgid "Shop Pagination Border Color"
+msgstr ""
+
+#: framework/redux.config.php:24 framework/redux.config.php:25
+msgid "Car Repair Services Options"
+msgstr ""
+
+#: framework/redux.config.php:119
+msgid "Theme Setting"
+msgstr ""
+
+#: framework/redux.config.php:121
+msgid "Theme Settings for your site"
+msgstr ""
+
+#: framework/redux.config.php:128
+msgid "Select Your Theme"
+msgstr ""
+
+#: framework/redux.config.php:144
+msgid "Header Settings"
+msgstr ""
+
+#: framework/redux.config.php:146
+msgid "All header settings"
+msgstr ""
+
+#: framework/redux.config.php:153
+msgid "Header Design"
+msgstr ""
+
+#: framework/redux.config.php:154
+msgid "Select Header"
+msgstr ""
+
+#: framework/redux.config.php:164
+msgid "Breadcrumbs And Title Design"
+msgstr ""
+
+#: framework/redux.config.php:165
+msgid "Select Breadcrumbs And Title Design"
+msgstr ""
+
+#: framework/redux.config.php:175
+msgid "Show Transparent Header"
+msgstr ""
+
+#: framework/redux.config.php:176
+msgid "Enable or Disable site Transparent Header"
+msgstr ""
+
+#: framework/redux.config.php:178 framework/redux.config.php:187
+#: framework/redux.config.php:232 framework/redux.config.php:273
+#: framework/redux.config.php:306 framework/redux.config.php:321
+#: framework/redux.config.php:357 framework/redux.config.php:366
+#: framework/redux.config.php:395 framework/redux.config.php:430
+#: framework/redux.config.php:629 framework/redux.config.php:666
+#: framework/redux.config.php:708 framework/redux.config.php:717
+#: framework/redux.config.php:774 framework/redux.config.php:800
+#: framework/redux.config.php:890 framework/redux.config.php:956
+#: framework/redux.config.php:1040
+msgid "Enable"
+msgstr ""
+
+#: framework/redux.config.php:179 framework/redux.config.php:188
+#: framework/redux.config.php:233 framework/redux.config.php:274
+#: framework/redux.config.php:307 framework/redux.config.php:322
+#: framework/redux.config.php:358 framework/redux.config.php:367
+#: framework/redux.config.php:396 framework/redux.config.php:429
+#: framework/redux.config.php:630 framework/redux.config.php:667
+#: framework/redux.config.php:709 framework/redux.config.php:718
+#: framework/redux.config.php:775 framework/redux.config.php:801
+#: framework/redux.config.php:891 framework/redux.config.php:957
+#: framework/redux.config.php:1041
+msgid "Disable"
+msgstr ""
+
+#: framework/redux.config.php:184
+msgid "Display Header Sticky"
+msgstr ""
+
+#: framework/redux.config.php:185
+msgid "Enable or Disable Header Sticky"
+msgstr ""
+
+#: framework/redux.config.php:195 framework/redux.config.php:207
+#: framework/redux.config.php:219 framework/redux.config.php:246
+msgid "Basic media uploader with disabled URL input field."
+msgstr ""
+
+#: framework/redux.config.php:196
+msgid "Add/Upload logo using the WordPress native uploader"
+msgstr ""
+
+#: framework/redux.config.php:197
+msgid "Site Logo"
+msgstr ""
+
+#: framework/redux.config.php:208
+msgid "Add/Upload Image for header background"
+msgstr ""
+
+#: framework/redux.config.php:209
+msgid "Home Header Top Background"
+msgstr ""
+
+#: framework/redux.config.php:220
+msgid "Add/Upload Image for Other(not home) page background"
+msgstr ""
+
+#: framework/redux.config.php:221
+msgid "Page Header Background"
+msgstr ""
+
+#: framework/redux.config.php:229
+msgid "Display preloader before page load"
+msgstr ""
+
+#: framework/redux.config.php:230
+msgid "Enable or Disable site preloader"
+msgstr ""
+
+#: framework/redux.config.php:247
+msgid "Add/Upload preloader using the WordPress native uploader"
+msgstr ""
+
+#: framework/redux.config.php:248
+msgid "Site Preloader"
+msgstr ""
+
+#: framework/redux.config.php:254
+msgid "Favicon URL"
+msgstr ""
+
+#: framework/redux.config.php:256
+msgid "Set favicon for your theme"
+msgstr ""
+
+#: framework/redux.config.php:257
+msgid "Upload favicon for the theme"
+msgstr ""
+
+#: framework/redux.config.php:263
+msgid "Header Content"
+msgstr ""
+
+#: framework/redux.config.php:264
+msgid "With the \"section\" field you can create indented option sections."
+msgstr ""
+
+#: framework/redux.config.php:270
+msgid "Display Header Top Mobile"
+msgstr ""
+
+#: framework/redux.config.php:271
+msgid "Enable or disable header mobile content"
+msgstr ""
+
+#: framework/redux.config.php:279
+msgid "Page Header location"
+msgstr ""
+
+#: framework/redux.config.php:285
+msgid "Page Header Phone"
+msgstr ""
+
+#: framework/redux.config.php:291
+msgid "Page Header Email"
+msgstr ""
+
+#: framework/redux.config.php:297
+msgid "Page Header Hour"
+msgstr ""
+
+#: framework/redux.config.php:303
+msgid "Display header Right text"
+msgstr ""
+
+#: framework/redux.config.php:304
+msgid "Enable or disable header Right text"
+msgstr ""
+
+#: framework/redux.config.php:318
+msgid "Display Header Right Button line"
+msgstr ""
+
+#: framework/redux.config.php:319
+msgid "Enable or disable header right button line"
+msgstr ""
+
+#: framework/redux.config.php:333
+msgid "Appoinment- URL Validated"
+msgstr ""
+
+#: framework/redux.config.php:334
+msgid "This must be a URL."
+msgstr ""
+
+#: framework/redux.config.php:335
+msgid "This is URL will work only modal option is disable from modal setting."
+msgstr ""
+
+#: framework/redux.config.php:354
+msgid "Display Header Cart Icon"
+msgstr ""
+
+#: framework/redux.config.php:355
+msgid "Enable or disable header cart icon"
+msgstr ""
+
+#: framework/redux.config.php:363
+msgid "Display Menu Search Button"
+msgstr ""
+
+#: framework/redux.config.php:364
+msgid "Enable or disable menu search button"
+msgstr ""
+
+#: framework/redux.config.php:372
+msgid "And now you can add more fields below and outside of the indent."
+msgstr ""
+
+#: framework/redux.config.php:383
+msgid "Blog Settings"
+msgstr ""
+
+#: framework/redux.config.php:385
+msgid "Blog Settings for index page"
+msgstr ""
+
+#: framework/redux.config.php:392
+msgid "Blog Title"
+msgstr ""
+
+#: framework/redux.config.php:393
+msgid "Enable or Disable blog title"
+msgstr ""
+
+#: framework/redux.config.php:401
+msgid "Blog Design"
+msgstr ""
+
+#: framework/redux.config.php:402
+msgid "Select Blog Design"
+msgstr ""
+
+#: framework/redux.config.php:417 framework/redux.config.php:419
+#: framework/redux.config.php:426
+msgid "Typography"
+msgstr ""
+
+#: framework/redux.config.php:427
+msgid "Enable or Disable Typography"
+msgstr ""
+
+#: framework/redux.config.php:436
+msgid "Body Typography"
+msgstr ""
+
+#: framework/redux.config.php:437
+msgid "Select body font family, size, line height, color and weight."
+msgstr ""
+
+#: framework/redux.config.php:451
+msgid "Menu Typography"
+msgstr ""
+
+#: framework/redux.config.php:452
+msgid "Select menu font family, size, line height, color and weight."
+msgstr ""
+
+#: framework/redux.config.php:463
+msgid "H1 Font"
+msgstr ""
+
+#: framework/redux.config.php:464 framework/redux.config.php:473
+#: framework/redux.config.php:489 framework/redux.config.php:505
+#: framework/redux.config.php:521 framework/redux.config.php:537
+msgid "Select heading font family and weight."
+msgstr ""
+
+#: framework/redux.config.php:472
+msgid "H2 Font"
+msgstr ""
+
+#: framework/redux.config.php:488
+msgid "H3 Font"
+msgstr ""
+
+#: framework/redux.config.php:504
+msgid "H4 Font"
+msgstr ""
+
+#: framework/redux.config.php:520
+msgid "H5 Font"
+msgstr ""
+
+#: framework/redux.config.php:536
+msgid "H6 Font"
+msgstr ""
+
+#: framework/redux.config.php:552
+msgid "Widget Title"
+msgstr ""
+
+#: framework/redux.config.php:553
+msgid "Widget title typography settings"
+msgstr ""
+
+#: framework/redux.config.php:569
+msgid "Slider H3 Title"
+msgstr ""
+
+#: framework/redux.config.php:570
+msgid "Slider H3 title typography settings"
+msgstr ""
+
+#: framework/redux.config.php:586
+msgid "Slider H4 Title"
+msgstr ""
+
+#: framework/redux.config.php:587
+msgid "Slider H4 title typography settings"
+msgstr ""
+
+#: framework/redux.config.php:606
+msgid "Footer Settings"
+msgstr ""
+
+#: framework/redux.config.php:608 framework/redux.config.php:990
+#: framework/redux.config.php:1030
+msgid "These are really basic fields!"
+msgstr ""
+
+#: framework/redux.config.php:615
+msgid "Footer Design"
+msgstr ""
+
+#: framework/redux.config.php:616
+msgid "Select Footer"
+msgstr ""
+
+#: framework/redux.config.php:626
+msgid "Widgetized Footer"
+msgstr ""
+
+#: framework/redux.config.php:627
+msgid "Enable or Disable to Widgetized Footer To add Custom Footer content"
+msgstr ""
+
+#: framework/redux.config.php:635
+msgid "Widgetized Footer Styles"
+msgstr ""
+
+#: framework/redux.config.php:636
+msgid ""
+"Select main content and sidebar alignment. Choose between 1, 2 or 3 column layout."
+msgstr ""
+
+#: framework/redux.config.php:663
+msgid "Show Back To Top"
+msgstr ""
+
+#: framework/redux.config.php:664
+msgid "Enable or Disable to Show Back To Top In Footer"
+msgstr ""
+
+#: framework/redux.config.php:672
+msgid "Back to Top Icon"
+msgstr ""
+
+#: framework/redux.config.php:678
+msgid "Footer Upper Title"
+msgstr ""
+
+#: framework/redux.config.php:679
+msgid "Upper Description title"
+msgstr ""
+
+#: framework/redux.config.php:680 template-parts/footer/footer-2.php:147
+msgid "Contact Info"
+msgstr ""
+
+#: framework/redux.config.php:685
+msgid "Footer Lower Title"
+msgstr ""
+
+#: framework/redux.config.php:686
+msgid "Lower description title"
+msgstr ""
+
+#: framework/redux.config.php:687
+msgid "Opening Hours"
+msgstr ""
+
+#: framework/redux.config.php:692
+msgid "Copyright"
+msgstr ""
+
+#: framework/redux.config.php:693
+msgid "Copyright Text"
+msgstr ""
+
+#: framework/redux.config.php:694
+msgid "&copy; 2017 Car Repair Services, All Rights Reserved"
+msgstr ""
+
+#: framework/redux.config.php:699
+msgid "Page Footer Email"
+msgstr ""
+
+#: framework/redux.config.php:705
+msgid "Show Contact Map In Footer"
+msgstr ""
+
+#: framework/redux.config.php:706
+msgid "Enable or Disable Show Contact Map In Footer"
+msgstr ""
+
+#: framework/redux.config.php:714
+msgid "Show Embed Map"
+msgstr ""
+
+#: framework/redux.config.php:715
+msgid "Enable or Disable Embed Map"
+msgstr ""
+
+#: framework/redux.config.php:724
+msgid "Map Embeb Code"
+msgstr ""
+
+#: framework/redux.config.php:725
+msgid "Please visit https://www.google.com/maps for embed code"
+msgstr ""
+
+#: framework/redux.config.php:731
+msgid "Google Map Api Key"
+msgstr ""
+
+#: framework/redux.config.php:732
+msgid "Set Google Map Api Key"
+msgstr ""
+
+#: framework/redux.config.php:738
+msgid "latitude"
+msgstr ""
+
+#: framework/redux.config.php:739
+msgid "The latitude  to center the map "
+msgstr ""
+
+#: framework/redux.config.php:745
+msgid "longitude"
+msgstr ""
+
+#: framework/redux.config.php:746
+msgid "The longitude  to center the map "
+msgstr ""
+
+#: framework/redux.config.php:752
+msgid "Zoom"
+msgstr ""
+
+#: framework/redux.config.php:753
+msgid "Zoom of the map "
+msgstr ""
+
+#: framework/redux.config.php:761
+msgid "Google Map Marker."
+msgstr ""
+
+#: framework/redux.config.php:762 framework/redux.config.php:791
+msgid "Add/Upload mobile logo using the WordPress native uploader"
+msgstr ""
+
+#: framework/redux.config.php:763
+msgid "Map Marker"
+msgstr ""
+
+#: framework/redux.config.php:771
+msgid "Customize Map Style"
+msgstr ""
+
+#: framework/redux.config.php:772
+msgid "Enable if you like to customize the style of Google Map"
+msgstr ""
+
+#: framework/redux.config.php:781
+msgid "Map Style"
+msgstr ""
+
+#: framework/redux.config.php:782
+msgid "Please visit snazzymaps.com for more styles"
+msgstr ""
+
+#: framework/redux.config.php:790
+msgid "Please Disable Footer Map Before Set Map Image"
+msgstr ""
+
+#: framework/redux.config.php:792
+msgid "Footer Map Image"
+msgstr ""
+
+#: framework/redux.config.php:797
+msgid "Show Contact Information In Footer"
+msgstr ""
+
+#: framework/redux.config.php:798
+msgid "Enable or Disable Contact Information In Footer"
+msgstr ""
+
+#: framework/redux.config.php:806
+msgid "Contact Phone No"
+msgstr ""
+
+#: framework/redux.config.php:812
+msgid "Contact Phone Location"
+msgstr ""
+
+#: framework/redux.config.php:819
+msgid "Contact Phone Clock"
+msgstr ""
+
+#: framework/redux.config.php:826
+msgid "Facebook URL"
+msgstr ""
+
+#: framework/redux.config.php:832
+msgid "Twitter URL"
+msgstr ""
+
+#: framework/redux.config.php:838
+msgid "Youtube URL"
+msgstr ""
+
+#: framework/redux.config.php:844
+msgid "Google Plus URL"
+msgstr ""
+
+#: framework/redux.config.php:850
+msgid "Instagram URL"
+msgstr ""
+
+#: framework/redux.config.php:856
+msgid "Tumblr URL"
+msgstr ""
+
+#: framework/redux.config.php:862
+msgid "Behance URL"
+msgstr ""
+
+#: framework/redux.config.php:868
+msgid "Linkedin URL"
+msgstr ""
+
+#: framework/redux.config.php:878
+msgid "Modal Settings"
+msgstr ""
+
+#: framework/redux.config.php:880
+msgid "modal for email subscription"
+msgstr ""
+
+#: framework/redux.config.php:887
+msgid "modal"
+msgstr ""
+
+#: framework/redux.config.php:888 framework/redux.config.php:954
+msgid "Enable or Disable modal on site"
+msgstr ""
+
+#: framework/redux.config.php:896
+msgid "modal Title"
+msgstr ""
+
+#: framework/redux.config.php:897
+msgid "modal title which one will be shown at top of modal"
+msgstr ""
+
+#: framework/redux.config.php:903
+msgid "modal content"
+msgstr ""
+
+#: framework/redux.config.php:904 framework/redux.config.php:970
+msgid "It will be shown at just below title"
+msgstr ""
+
+#: framework/redux.config.php:910
+msgid "Don't show it again"
+msgstr ""
+
+#: framework/redux.config.php:911
+msgid "Don't show it again checkbox title"
+msgstr ""
+
+#: framework/redux.config.php:917 framework/redux.config.php:976
+msgid "Appointment Form"
+msgstr ""
+
+#: framework/redux.config.php:918 framework/redux.config.php:977
+msgid "Appointment Form Murkup"
+msgstr ""
+
+#: framework/redux.config.php:924
+msgid "Date Format"
+msgstr ""
+
+#: framework/redux.config.php:925
+msgid "Form Datepicker Format"
+msgstr ""
+
+#: framework/redux.config.php:931
+msgid "modal Background Image"
+msgstr ""
+
+#: framework/redux.config.php:932
+msgid "modal backgrund settings"
+msgstr ""
+
+#: framework/redux.config.php:944
+msgid "Modal SM Settings"
+msgstr ""
+
+#: framework/redux.config.php:946
+msgid "modal 2 for email subscription"
+msgstr ""
+
+#: framework/redux.config.php:953
+msgid "modal sm"
+msgstr ""
+
+#: framework/redux.config.php:962
+msgid "modal sm Title"
+msgstr ""
+
+#: framework/redux.config.php:963
+msgid "modal sm title which one will be shown at top of modal"
+msgstr ""
+
+#: framework/redux.config.php:969
+msgid "modal sm content"
+msgstr ""
+
+#: framework/redux.config.php:988
+msgid "Extra Settings"
+msgstr ""
+
+#: framework/redux.config.php:997
+msgid "Custom Post Type Car Repair Services"
+msgstr ""
+
+#: framework/redux.config.php:998
+msgid "Car Repair Service Slug Name"
+msgstr ""
+
+#: framework/redux.config.php:1004
+msgid "Car Repair Services Archive Page Name"
+msgstr ""
+
+#: framework/redux.config.php:1005
+msgid "Change Car Repair Service Page Name"
+msgstr ""
+
+#: framework/redux.config.php:1011
+msgid "Add Custom Moment language js file."
+msgstr ""
+
+#: framework/redux.config.php:1017
+msgid "Extra CSS"
+msgstr ""
+
+#: framework/redux.config.php:1018
+msgid "Extra CSS just after theme styles"
+msgstr ""
+
+#: framework/redux.config.php:1028
+msgid "Product Reviews Settings"
+msgstr ""
+
+#: framework/redux.config.php:1037
+msgid "Product Reviews"
+msgstr ""
+
+#: framework/redux.config.php:1038
+msgid "Enable or Disable Product Reviews"
+msgstr ""
+
+#: functions.php:147
+msgid "Primary"
+msgstr ""
+
+#: functions.php:258
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:260
+msgid "Blog sidebar area"
+msgstr ""
+
+#: functions.php:270
+msgid "Service Sidebar"
+msgstr ""
+
+#: functions.php:272
+msgid "Service sidebar area"
+msgstr ""
+
+#: functions.php:282
+msgid "Contact Us"
+msgstr ""
+
+#: functions.php:284
+msgid "Contact Us area"
+msgstr ""
+
+#: functions.php:297
+msgid "Woo Shop Sidebar"
+msgstr ""
+
+#: functions.php:299
+msgid "Shop sidebar area"
+msgstr ""
+
+#: functions.php:318 functions.php:320
+msgid "Footer Column "
+msgstr ""
+
+#: functions.php:564
+msgid "Go to today"
+msgstr ""
+
+#: functions.php:565
+msgid "Clear selection"
+msgstr ""
+
+#: functions.php:566
+msgid "Close the picker"
+msgstr ""
+
+#: functions.php:567
+msgid "Select Month"
+msgstr ""
+
+#: functions.php:568
+msgid "Previous Month"
+msgstr ""
+
+#: functions.php:569
+msgid "Next Month"
+msgstr ""
+
+#: functions.php:570
+msgid "Select Year"
+msgstr ""
+
+#: functions.php:571
+msgid "Previous Year"
+msgstr ""
+
+#: functions.php:572
+msgid "Next Year"
+msgstr ""
+
+#: functions.php:573
+msgid "Select Decade"
+msgstr ""
+
+#: functions.php:574
+msgid "Previous Decade"
+msgstr ""
+
+#: functions.php:575
+msgid "Next Decade"
+msgstr ""
+
+#: functions.php:576
+msgid "Previous Century"
+msgstr ""
+
+#: functions.php:577
+msgid "Next Century"
+msgstr ""
+
+#: functions.php:578
+msgid "Pick Hour"
+msgstr ""
+
+#: functions.php:579
+msgid "Increment Hour"
+msgstr ""
+
+#: functions.php:580
+msgid "Decrement Hour"
+msgstr ""
+
+#: functions.php:581
+msgid "Pick Minute"
+msgstr ""
+
+#: functions.php:582
+msgid "Increment Minute"
+msgstr ""
+
+#: functions.php:583
+msgid "Decrement Minute"
+msgstr ""
+
+#: functions.php:584
+msgid "Pick Second"
+msgstr ""
+
+#: functions.php:585
+msgid "Increment Second"
+msgstr ""
+
+#: functions.php:586
+msgid "Decrement Second"
+msgstr ""
+
+#: functions.php:587
+msgid "Toggle Period"
+msgstr ""
+
+#: functions.php:588
+msgid "Select Time"
+msgstr ""
+
+#: functions.php:719
+msgid "Comment navigation"
+msgstr ""
+
+#: functions.php:722
+msgid "Older Comments"
+msgstr ""
+
+#: functions.php:726
+msgid "Newer Comments"
+msgstr ""
+
+#: functions.php:776
+msgid "Loading"
+msgstr ""
+
+#: functions.php:869 template-parts/modal-coupon.php:7
+msgid "Coupon"
+msgstr ""
+
+#: functions.php:899 header.php:62 template-parts/modal-coupon.php:13
+msgid "Close"
+msgstr ""
+
+#: functions.php:900 template-parts/modal-coupon.php:14
+msgid "Print"
+msgstr ""
+
+#: functions.php:986 template-parts/header/header-1.php:135
+#: template-parts/header/header-1.php:233 template-parts/header/header-1.php:433
+msgid "View your shopping cart"
+msgstr ""
+
+#: functions.php:1021 functions.php:1062 functions.php:1069
+msgid "View cart"
+msgstr ""
+
+#: functions.php:1025
+msgid "Checkout"
+msgstr ""
+
+#: functions.php:1143 functions.php:1145 index.php:180 template-parts/content.php:32
+#: template-parts/content.php:35 template-parts/content.php:79
+#: template-parts/content.php:82
+msgid "Continue Reading"
+msgstr ""
+
+#: header.php:63
+msgid "Back"
+msgstr ""
+
+#: inc/template-tags-2.php:34 inc/template-tags-2.php:36
+msgid " comments"
+msgstr ""
+
+#: inc/template-tags-2.php:38
+msgid " comment"
+msgstr ""
+
+#: inc/template-tags-2.php:62 inc/template-tags.php:53
+msgid ", "
+msgstr ""
+
+#: inc/template-tags-2.php:64 inc/template-tags.php:55
+#, php-format
+msgid "Posted in : %1$s"
+msgstr ""
+
+#: inc/template-tags-2.php:68 inc/template-tags-2.php:96 inc/template-tags.php:59
+msgid " "
+msgstr ""
+
+#: inc/template-tags-2.php:70 inc/template-tags-2.php:98 inc/template-tags.php:61
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/template-tags-2.php:77 inc/template-tags.php:68
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags-2.php:84 inc/template-tags.php:75
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/template-tags-2.php:155
+msgid "Previous"
+msgstr ""
+
+#: inc/template-tags-2.php:155 inc/template-tags-2.php:157
+msgid "%title"
+msgstr ""
+
+#: inc/template-tags-2.php:157
+msgid "Next"
+msgstr ""
+
+#: inc/template-tags-2.php:158
+msgid "&nbsp;"
+msgstr ""
+
+#: inc/template-tags.php:27
+#, php-format
+msgid " %s"
+msgstr ""
+
+#: inc/template-tags.php:32
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: index.php:69 search.php:38
+msgid "Read More"
+msgstr ""
+
+#: index.php:173
+msgid "0"
+msgstr ""
+
+#: index.php:208 index.php:301
+msgid "More Posts"
+msgstr ""
+
+#: index.php:271
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: index.php:277 single.php:71 single.php:198 template-parts/content-page.php:19
+#: template-parts/content.php:40 template-parts/content.php:87
+#: woocommerce/loop/pagination-top.php:30
+msgid "Pages:"
+msgstr ""
+
+#: index.php:281 single.php:75 single.php:202 template-parts/content.php:44
+#: template-parts/content.php:91
+msgid "Page"
+msgstr ""
+
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:20 template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: searchform-top.php:15 searchform.php:14 searchform.php:23
+msgid "Search &hellip;"
+msgstr ""
+
+#: single-car_services.php:29
+msgid "Our Services"
+msgstr ""
+
+#: single-car_services.php:52
+msgid "Service"
+msgstr ""
+
+#: single.php:67 single.php:194 template-parts/content.php:25
+#: template-parts/content.php:72
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some different "
+"keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can "
+"help."
+msgstr ""
+
+#: template-parts/footer/footer-1.php:11
+msgid "Call:"
+msgstr ""
+
+#: template-parts/footer/footer-2.php:162
+msgid "OPENING HOURS"
+msgstr ""
+
+#: template-parts/header/header-1.php:89 template-parts/header/header-1.php:166
+#: template-parts/header/header-1.php:359 template-parts/header/header-2.php:108
+msgid "Logo"
+msgstr ""
+
+#: template-parts/media/content-audio.php:5 template-parts/media/content-gallery.php:4
+#: template-parts/media/content-link.php:5 template-parts/media/content-quote.php:5
+#: template-parts/media/content-video.php:5 template-parts/media/content.php:4
+msgid "Sticky Post"
+msgstr ""
+
+#: template-parts/testimonial.php:25
+msgid "testimonial"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:29
+msgid "Return to shop"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:75
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:94
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:100
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:34 woocommerce/cart/cart.php:118
+#: woocommerce/cart/mini-cart.php:100
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:56
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:89 woocommerce/cart/mini-cart.php:66
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:138
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:138
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:138
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:143
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:91
+msgid "No products in the cart ."
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:27
+msgid "Proceed to checkout"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:32 woocommerce/loop/orderby.php:48
+msgid "Shop order"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:36 woocommerce/loop/result-count.php:57
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:39 woocommerce/loop/result-count.php:60
+#, php-format
+msgid "Showing all %d result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:38
+#: woocommerce/single-product-reviews.php:144
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:41
+#: woocommerce/single-product-reviews.php:147
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+#: woocommerce/single-product-reviews.php:177
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+#: woocommerce/single-product-reviews.php:190
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+#: woocommerce/single-product-reviews.php:190
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+#: woocommerce/single-product-reviews.php:191
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+#: woocommerce/single-product-reviews.php:201
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:105
+#: woocommerce/single-product-reviews.php:211
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:109
+#: woocommerce/single-product-reviews.php:215
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:110
+#: woocommerce/single-product-reviews.php:216
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:111
+#: woocommerce/single-product-reviews.php:217
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:112
+#: woocommerce/single-product-reviews.php:218
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:113
+#: woocommerce/single-product-reviews.php:219
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:114
+#: woocommerce/single-product-reviews.php:220
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:115
+#: woocommerce/single-product-reviews.php:221
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:128
+#: woocommerce/single-product-reviews.php:234
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:225
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:53
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:38
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:58
+msgid "Similar <span class=\"color\">Products</span>"
+msgstr ""

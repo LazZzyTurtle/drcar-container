@@ -1,0 +1,78 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">title</custom-field>
+        <custom-field action="translate">description</custom-field>
+        <custom-field action="translate">keywords</custom-field>
+    </custom-fields>  
+    <language-switcher-settings>
+        <key name="icl_lang_sel_config">
+            <key name="font-current-normal">#444444</key>
+            <key name="font-current-hover">#000000</key>
+            <key name="background-current-normal">#ffffff</key>
+            <key name="background-current-hover">#eeeeee</key>
+            <key name="font-other-normal">#444444</key>
+            <key name="font-other-hover">#000000</key>
+            <key name="background-other-normal">#ffffff</key>
+            <key name="background-other-hover">#eeeeee</key>
+            <key name="border">#cdcdcd</key>
+        </key>
+        <key name="icl_lang_sel_footer_config">
+            <key name="font-current-normal">#444444</key>
+            <key name="font-current-hover">#000000</key>
+            <key name="background-current-normal">#ffffff</key>
+            <key name="background-current-hover">#eeeeee</key>
+            <key name="font-other-normal">#444444</key>
+            <key name="font-other-hover">#000000</key>
+            <key name="background-other-normal">#ffffff</key>
+            <key name="background-other-hover">#eeeeee</key>
+            <key name="border">#cdcdcd</key>
+        </key>                
+        <key name="icl_language_switcher_sidebar">0</key>        
+        <key name="icl_widget_title_show">0</key>
+        <key name="icl_lang_sel_type">dropdown</key>
+        <key name="icl_lso_link_empty">0</key>
+        <key name="icl_lso_flags">0</key>
+        <key name="icl_lso_native_lang">1</key>
+        <key name="icl_lso_display_lang">1</key>
+        <key name="icl_lang_sel_footer">0</key>
+        <key name="icl_post_availability">0</key>
+        <key name="icl_post_availability_position">below</key>
+        <key name="icl_post_availability_text">This post is also available in: %s</key>                
+    </language-switcher-settings>
+   <admin-texts>
+        <key name="car_repair_services_opt">
+            <key name="car_repair_services-page-header-mobile-phone" />
+            <key name="car_repair_services-page-header-mobile-location" />
+            <key name="car_repair_services-page-header-mobile-email" />
+            <key name="car_repair_services-page-header-mobile-hour" />
+            <key name="car_repair_services-header-top-left-line" />
+            <key name="car_repair_services-header-top-right-line" />
+            <key name="car_repair_services-appoinment-url" />
+            <key name="car_repair_services-header-bottom-line" />
+            <key name="car_repair_services-header-cell-no" />
+            <key name="car_repair_services-footer_copyright" />
+            <key name="car_repair_services-footer_email" />
+            <key name="car_repair_services-footer_contact_phone" />
+            <key name="car_repair_services-footer_contact_location" />
+            <key name="car_repair_services-footer_contact_clock" />
+            <key name="car_repair_services-footer-facebook" />
+            <key name="car_repair_services-footer-twitter" />
+            <key name="car_repair_services-footer-google-plus" />
+            <key name="car_repair_services-footer-instagram" />
+            <key name="car_repair_services-footer-tumblr" />
+            <key name="car_repair_services-footer-behance" />
+            <key name="car_repair_services-footer-linkedin" />
+            <key name="modal_title" />
+            <key name="modal_content" />
+            <key name="modal_nomore_text" />
+            <key name="modal_date_format" />
+            <key name="modal_mc_form" />
+        </key>
+        <key name="brake_change_title" />
+        <key name="brake_map_address" />
+        <key name="brake_change_content" />
+        <key name="oil_change_title" />
+        <key name="oil_map_address" />
+        <key name="oil_change_content" />
+    </admin-texts>
+</wpml-config>

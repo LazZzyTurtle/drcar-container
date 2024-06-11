@@ -1,0 +1,97 @@
+
+---Downloaded files---
+The import files for: Demo 02  were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8888
+Data file = /Applications/MAMP/htdocs/wp-content/plugins/car-repair-demo-installer/demo-data/demo2/contents.xml
+Widget file = /Applications/MAMP/htdocs/wp-content/plugins/car-repair-demo-installer/demo-data/demo2/widgets.wie
+Customizer file = /Applications/MAMP/htdocs/wp-content/plugins/car-repair-demo-installer/demo-data/demo2/customize.dat
+Redux files:
+car_repair_services_opt -> /Applications/MAMP/htdocs/wp-content/plugins/car-repair-demo-installer/demo-data/demo2/settings.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - Search - Imported
+Categories - Categories - Imported
+Calendar - Archives - Imported
+Tag Cloud - Tags - Imported
+Car-Services Posts Grid - Resent Posts - Imported
+
+service_sideber : Sidebar does not exist in theme (moving widget to Inactive)
+
+Service Menu - No Title - Imported to Inactive
+Car Services Contact List - Contacts Us - Imported to Inactive
+Text - Have a Question? - Imported to Inactive
+
+Woo Shop Sidebar : 
+
+Product Categories - Categories - Imported
+Filter Products by Price - Price - Imported
+Products list - Popular - Imported
+Product Tag Cloud - Product tags - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: car_repair_services_opt finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

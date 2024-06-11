@@ -1,0 +1,45 @@
+
+---Downloaded files---
+The import files for: Demo 02  were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8888
+Data file = /Applications/MAMP/htdocs/wp-content/plugins/car-repair-demo-installer/demo-data/demo2/contents.xml
+Widget file = /Applications/MAMP/htdocs/wp-content/plugins/car-repair-demo-installer/demo-data/demo2/widgets.wie
+Customizer file = /Applications/MAMP/htdocs/wp-content/plugins/car-repair-demo-installer/demo-data/demo2/customize.dat
+Redux files:
+car_repair_services_opt -> /Applications/MAMP/htdocs/wp-content/plugins/car-repair-demo-installer/demo-data/demo2/settings.json 
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - Search - Widget already exists
+Categories - Categories - Widget already exists
+Calendar - Archives - Widget already exists
+Tag Cloud - Tags - Widget already exists
+Car-Services Posts Grid - Resent Posts - Widget already exists
+
+Service Sidebar : 
+
+Service Menu - No Title - Imported
+Car Services Contact List - Contacts Us - Imported
+Text - Have a Question? - Imported
+
+Woo Shop Sidebar : 
+
+Product Categories - Categories - Widget already exists
+Filter Products by Price - Price - Widget already exists
+Products list - Popular - Widget already exists
+Product Tag Cloud - Product tags - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: car_repair_services_opt finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

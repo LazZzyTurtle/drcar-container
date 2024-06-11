@@ -1,0 +1,24 @@
+
+---Downloaded files---
+The import files for: Demo 01  were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8888
+Data file = /var/www/html/wp-content/plugins/car-repair-demo-installer/demo-data/demo1/contents.xml
+Widget file = /var/www/html/wp-content/plugins/car-repair-demo-installer/demo-data/demo1/widgets.wie
+Customizer file = /var/www/html/wp-content/plugins/car-repair-demo-installer/demo-data/demo1/customize.dat
+Redux files:
+car_repair_services_opt -> /var/www/html/wp-content/plugins/car-repair-demo-installer/demo-data/demo1/settings.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+

@@ -1,0 +1,7 @@
+{
+  "name": "meta-box/meta-box-columns",
+  "type": "wordpress-plugin",
+  "autoload": {
+    "files": ["meta-box-columns.php"]
+  }
+}

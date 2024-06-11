@@ -1,0 +1,3476 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Caleader\n"
+"POT-Creation-Date: 2022-02-20 12:16+0600\n"
+"PO-Revision-Date: 2019-04-08 12:12+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;esc_html__;esc_html_e;esc_attr__;esc_attr_e;_n:1,2;"
+"_nx:4c,1,2;_e;esc_attr_x;_n_noop;_x;_x:1,2c;_nx_noop:1,2;_n_noop:1,2\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../car-repair-addons/car-repair-addons.php:109
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: ../car-repair-addons/car-repair-addons.php:110
+#: ../car-repair-addons/car-repair-addons.php:133
+#: ../car-repair-addons/car-repair-addons.php:157
+msgid "Elementor Car Repair Services"
+msgstr ""
+
+#: ../car-repair-addons/car-repair-addons.php:111
+#: ../car-repair-addons/car-repair-addons.php:134
+msgid "Elementor"
+msgstr ""
+
+#: ../car-repair-addons/car-repair-addons.php:132
+#: ../car-repair-addons/car-repair-addons.php:156
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: ../car-repair-addons/car-repair-addons.php:158
+msgid "PHP"
+msgstr ""
+
+#: ../car-repair-addons/functions.php:9 ../vc_element/vc_map_ brands.php:7
+#: brands.php:50 ../vc_element/vc_map_banner_free.php:18
+#: ../vc_element/vc_map_faqs.php:8 ../vc_element/vc_map_faqs.php:29
+#: ../vc_element/vc_map_featured_sevices.php:8
+#: ../vc_element/vc_map_featured_sevices2.php:7
+#: ../vc_element/vc_map_featured_sevices2.php:45
+#: ../vc_element/vc_map_home_page_coupon.php:7
+#: ../vc_element/vc_map_how_it_works.php:7
+#: ../vc_element/vc_map_how_it_works.php:54
+#: ../vc_element/vc_map_icon_tabs.php:11
+#: ../vc_element/vc_map_pricing_plans.php:6
+#: ../vc_element/vc_map_pricing_plans.php:43
+#: ../vc_element/vc_map_service_banner.php:11
+#: ../vc_element/vc_map_services_banner_2.php:7
+#: ../vc_element/vc_map_testimonials_two.php:8
+msgid "Car Repair"
+msgstr ""
+
+#: ../car-repair-addons/functions.php:22
+msgid "Img"
+msgstr ""
+
+#: ../car-repair-addons/functions.php:66 ../car-repair-addons/functions.php:158
+msgid "No contect From 7 form found"
+msgstr ""
+
+#: ../car-repair-addons/functions.php:123
+#: ../car-repair-addons/functions.php:140
+#: ../vc_element/vc_map_action_button.php:13
+#: ../vc_element/vc_map_banner_free.php:9
+#: ../vc_element/vc_map_estimator_form.php:10
+msgid "No contact forms found"
+msgstr ""
+
+#: ../car-repair-addons/functions.php:178
+msgid "No Pages Found!"
+msgstr ""
+
+#: ../car-repair-addons/widgets/ActionButton.php:24
+#: ../car-repair-addons/widgets/ActionButton.php:40
+#: ../car-repair-addons/widgets/ActionButton.php:94
+#: ../car-repair-addons/widgets/banner.php:129
+#: ../car-repair-addons/widgets/banner_under_slider.php:80
+#: ../car-repair-addons/widgets/car_featured_services.php:175
+msgid "Action Button"
+msgstr ""
+
+#: ../car-repair-addons/widgets/ActionButton.php:47
+msgid "Button Title"
+msgstr ""
+
+#: ../car-repair-addons/widgets/ActionButton.php:56
+#: ../vc_element/vc_map_action_button.php:33
+#: ../vc_element/vc_map_banner_free.php:53
+#: ../vc_element/vc_map_icon_box.php:105
+#: ../vc_element/vc_map_slickslider.php:175
+msgid "Button Action"
+msgstr ""
+
+#: ../car-repair-addons/widgets/ActionButton.php:60
+msgid "None"
+msgstr ""
+
+#: ../car-repair-addons/widgets/ActionButton.php:61
+#: ../car-repair-addons/widgets/schedule_appointment.php:108
+msgid "Modal"
+msgstr ""
+
+#: ../car-repair-addons/widgets/ActionButton.php:62
+msgid "Pop Up"
+msgstr ""
+
+#: ../car-repair-addons/widgets/ActionButton.php:63
+#: ../car-repair-addons/widgets/home_page_coupns.php:104
+#: ../car-repair-addons/widgets/schedule_appointment.php:109
+#: ../lib/config.meta.box.php:118 ../vc_element/vc_map_home_page_coupon.php:92
+msgid "Link"
+msgstr ""
+
+#: ../car-repair-addons/widgets/ActionButton.php:71
+msgid "Modal Element Id"
+msgstr ""
+
+#: ../car-repair-addons/widgets/ActionButton.php:82
+#: ../vc_element/vc_map_action_button.php:54
+#: ../vc_element/vc_map_banner_free.php:62
+#: ../vc_element/vc_map_icon_box.php:126
+msgid "Select contact form for Pop Up Id"
+msgstr ""
+
+#: ../car-repair-addons/widgets/ActionButton.php:105
+#: ../vc_element/vc_map_action_button.php:76
+msgid "Pop Up Location To Open"
+msgstr ""
+
+#: ../car-repair-addons/widgets/ActionButton.php:109
+msgid "bottom"
+msgstr ""
+
+#: ../car-repair-addons/widgets/ActionButton.php:110
+msgid "top"
+msgstr ""
+
+#: ../car-repair-addons/widgets/ActionButton.php:118
+#: ../car-repair-addons/widgets/advantages-our-services.php:91
+#: ../car-repair-addons/widgets/banner.php:152
+#: ../car-repair-addons/widgets/blog_posts.php:68
+#: ../car-repair-addons/widgets/icon_thumb_box.php:115
+#: ../car-repair-addons/widgets/our-services.php:110
+#: ../car-repair-addons/widgets/our-services.php:121
+#: ../car-repair-addons/widgets/schedule_appointment.php:165
+#: ../car-repair-addons/widgets/testimonials.php:98
+#: ../vc_element/vc_map_blog.php:36 ../vc_element/vc_map_coupns.php:16
+#: ../vc_element/vc_map_featured_sevices.php:44
+#: ../vc_element/vc_map_featured_sevices.php:104
+#: ../vc_element/vc_map_featured_sevices2.php:33
+#: ../vc_element/vc_map_featured_sevices2.php:75
+#: ../vc_element/vc_map_how_it_works.php:42
+#: ../vc_element/vc_map_services.php:85
+msgid "Extra Class"
+msgstr ""
+
+#: ../car-repair-addons/widgets/about-company.php:23
+#: ../car-repair-addons/widgets/about-company.php:49
+#: ../car-repair-addons/widgets/expert-service.php:128
+msgid "About Company"
+msgstr ""
+
+#: ../car-repair-addons/widgets/about-company.php:39
+#: ../car-repair-addons/widgets/about-company.php:55
+#: ../car-repair-addons/widgets/about-us-1.php:46
+#: ../car-repair-addons/widgets/about-us-1.php:94
+#: ../car-repair-addons/widgets/about-us.php:60
+#: ../car-repair-addons/widgets/accordian.php:58
+#: ../car-repair-addons/widgets/additional-service.php:38
+#: ../car-repair-addons/widgets/advantages-our-services.php:108
+#: ../car-repair-addons/widgets/banner.php:101
+#: ../car-repair-addons/widgets/banner.php:108
+#: ../car-repair-addons/widgets/car-blog.php:68
+#: ../car-repair-addons/widgets/car-blog.php:136
+#: ../car-repair-addons/widgets/car-contact-page.php:98
+#: ../car-repair-addons/widgets/car-estimate-form.php:46
+#: ../car-repair-addons/widgets/car-faqs-two.php:46
+#: ../car-repair-addons/widgets/car-faqs-two.php:111
+#: ../car-repair-addons/widgets/car-price-slider.php:93
+#: ../car-repair-addons/widgets/car-question-form.php:46
+#: ../car-repair-addons/widgets/car_featured_services.php:39
+#: ../car-repair-addons/widgets/counter_block.php:61
+#: ../car-repair-addons/widgets/counter_block.php:70
+#: ../car-repair-addons/widgets/counter_block.php:89
+#: ../car-repair-addons/widgets/coupons-carousel.php:87
+#: ../car-repair-addons/widgets/expert-service.php:39
+#: ../car-repair-addons/widgets/expert-service.php:46
+#: ../car-repair-addons/widgets/gallery.php:74
+#: ../car-repair-addons/widgets/home_page_coupns.php:86
+#: ../car-repair-addons/widgets/how-it-works.php:75
+#: ../car-repair-addons/widgets/how-it-works.php:97
+#: ../car-repair-addons/widgets/icon-box.php:44
+#: ../car-repair-addons/widgets/icon_thumb_box.php:45
+#: ../car-repair-addons/widgets/our-advantage.php:59
+#: ../car-repair-addons/widgets/safety_recalls.php:39
+#: ../car-repair-addons/widgets/schedule_appointment.php:68
+#: ../car-repair-addons/widgets/service-modal.php:41
+#: ../car-repair-addons/widgets/service-modal.php:78
+#: ../car-repair-addons/widgets/team_carousel.php:45
+#: ../car-repair-addons/widgets/testimonials-1.php:45
+#: ../car-repair-addons/widgets/testimonials.php:49 ../vc_element/vc_map_
+#: brands.php:16 ../vc_element/vc_map_banner_free.php:31
+#: ../vc_element/vc_map_banner_under_slider.php:13
+#: ../vc_element/vc_map_faqs.php:16
+#: ../vc_element/vc_map_featured_sevices.php:14
+#: ../vc_element/vc_map_featured_sevices2.php:17
+#: ../vc_element/vc_map_featured_sevices2.php:53
+#: ../vc_element/vc_map_home_page_coupon.php:64
+#: ../vc_element/vc_map_how_it_works.php:17
+#: ../vc_element/vc_map_icon_tabs.php:42
+#: ../vc_element/vc_map_pricing_plans.php:15
+#: ../vc_element/vc_map_pricing_plans.php:50
+#: ../vc_element/vc_map_services_banner_2.php:27
+#: ../vc_element/vc_map_testimonials_two.php:15
+#: ../vc_element/vc_map_trust_products.php:13
+#: ../widgets/smart-contact-list-widget.php:34
+#: ../widgets/smart-posts-grid-widget.php:28
+msgid "Title"
+msgstr ""
+
+#: ../car-repair-addons/widgets/about-company.php:46
+#: ../car-repair-addons/widgets/additional-service.php:45
+#: ../car-repair-addons/widgets/car-blog.php:77
+#: ../car-repair-addons/widgets/car_featured_services.php:66
+#: ../car-repair-addons/widgets/our-advantage.php:49
+#: ../car-repair-addons/widgets/schedule_appointment.php:139
+#: ../car-repair-addons/widgets/team_carousel.php:75
+#: ../car-repair-addons/widgets/testimonials.php:67
+msgid "BG Text"
+msgstr ""
+
+#: ../car-repair-addons/widgets/about-company.php:58
+msgid "About Car Repair Services"
+msgstr ""
+
+#: ../car-repair-addons/widgets/about-company.php:64
+#: ../car-repair-addons/widgets/about-us-1.php:66
+#: ../car-repair-addons/widgets/about-us.php:46
+#: ../car-repair-addons/widgets/additional-service.php:63
+#: ../car-repair-addons/widgets/banner-services.php:75
+#: ../car-repair-addons/widgets/banner.php:121
+#: ../car-repair-addons/widgets/banner_under_slider.php:69
+#: ../car-repair-addons/widgets/car-estimate-form.php:105
+#: ../car-repair-addons/widgets/car-faqs-two.php:100
+#: ../car-repair-addons/widgets/car-price-slider.php:82
+#: ../car-repair-addons/widgets/car_featured_services.php:85
+#: ../car-repair-addons/widgets/counter_block.php:207
+#: ../car-repair-addons/widgets/schedule_appointment.php:148
+#: ../car-repair-addons/widgets/service-gallery.php:65
+#: ../car-repair-addons/widgets/slickslider.php:49 ../vc_element/vc_map_
+#: brands.php:56 ../vc_element/vc_map_featured_sevices.php:30
+#: ../vc_element/vc_map_featured_sevices2.php:61
+#: ../vc_element/vc_map_how_it_works.php:62
+#: ../vc_element/vc_map_pricing_plans.php:62
+#: ../vc_element/vc_map_service_banner.php:58
+#: ../vc_element/vc_map_trust_products.php:19
+msgid "Image"
+msgstr ""
+
+#: ../car-repair-addons/widgets/about-company.php:75
+#: ../car-repair-addons/widgets/about-us-1.php:39
+#: ../car-repair-addons/widgets/about-us-1.php:56
+#: ../car-repair-addons/widgets/about-us.php:40
+#: ../car-repair-addons/widgets/about-us.php:82
+#: ../car-repair-addons/widgets/additional-service.php:74
+#: ../car-repair-addons/widgets/advantages-our-services.php:117
+#: ../car-repair-addons/widgets/banner-services.php:37
+#: ../car-repair-addons/widgets/banner.php:112
+#: ../car-repair-addons/widgets/banner_under_slider.php:99
+#: ../car-repair-addons/widgets/car-brands.php:44
+#: ../car-repair-addons/widgets/car-price-slider.php:43
+#: ../car-repair-addons/widgets/car-price-slider.php:111
+#: ../car-repair-addons/widgets/car-price-table.php:33
+#: ../car-repair-addons/widgets/car-price-table.php:62
+#: ../car-repair-addons/widgets/car-question-form.php:38
+#: ../car-repair-addons/widgets/car-question-form.php:57
+#: ../car-repair-addons/widgets/car_featured_services.php:116
+#: ../car-repair-addons/widgets/counter_block.php:43
+#: ../car-repair-addons/widgets/expert-service.php:76
+#: ../car-repair-addons/widgets/expert-service.php:103
+#: ../car-repair-addons/widgets/how-it-works.php:44
+#: ../car-repair-addons/widgets/our-advantage.php:35
+#: ../car-repair-addons/widgets/our-advantage.php:68
+#: ../car-repair-addons/widgets/our-services.php:131
+#: ../car-repair-addons/widgets/safety_recalls.php:31
+#: ../car-repair-addons/widgets/safety_recalls.php:49
+#: ../car-repair-addons/widgets/schedule_appointment.php:39
+#: ../car-repair-addons/widgets/service-modal.php:51
+#: ../vc_element/vc_map_banner_free.php:47
+#: ../vc_element/vc_map_banner_under_slider.php:49
+#: ../vc_element/vc_map_icon_tabs.php:58
+#: ../vc_element/vc_map_pricing_plans.php:67
+#: ../vc_element/vc_map_services_banner_2.php:34
+#: ../vc_element/vc_map_trust_products.php:35
+msgid "Content"
+msgstr ""
+
+#: ../car-repair-addons/widgets/about-company.php:83
+#: ../car-repair-addons/widgets/car-estimate-form.php:112
+#: ../car-repair-addons/widgets/counter_block.php:214
+#: ../car-repair-addons/widgets/icon_thumb_box.php:104 ../vc_element/vc_map_
+#: brands.php:61 ../vc_element/vc_map_featured_sevices2.php:68
+msgid "URL"
+msgstr ""
+
+#: ../car-repair-addons/widgets/about-company.php:91
+#: ../car-repair-addons/widgets/about-us-1.php:111
+#: ../car-repair-addons/widgets/about-us.php:101
+#: ../car-repair-addons/widgets/accordian.php:76
+#: ../car-repair-addons/widgets/additional-service.php:92
+#: ../car-repair-addons/widgets/advantages-our-services.php:135
+#: ../car-repair-addons/widgets/banner-services.php:97
+#: ../car-repair-addons/widgets/banner.php:163
+#: ../car-repair-addons/widgets/banner_under_slider.php:117
+#: ../car-repair-addons/widgets/car-blog.php:161
+#: ../car-repair-addons/widgets/car-brands.php:121
+#: ../car-repair-addons/widgets/car-contact-page.php:115
+#: ../car-repair-addons/widgets/car-estimate-form.php:120
+#: ../car-repair-addons/widgets/car-faqs-two.php:151
+#: ../car-repair-addons/widgets/car-price-slider.php:159
+#: ../car-repair-addons/widgets/car-question-form.php:79
+#: ../car-repair-addons/widgets/car_featured_services.php:189
+#: ../car-repair-addons/widgets/counter_block.php:231
+#: ../car-repair-addons/widgets/expert-service.php:138
+#: ../car-repair-addons/widgets/gallery.php:98
+#: ../car-repair-addons/widgets/how-it-works.php:144
+#: ../car-repair-addons/widgets/icon-box.php:100
+#: ../car-repair-addons/widgets/icon_thumb_box.php:126
+#: ../car-repair-addons/widgets/our-services.php:160
+#: ../car-repair-addons/widgets/schedule_appointment.php:174
+#: ../car-repair-addons/widgets/service-gallery.php:147
+#: ../car-repair-addons/widgets/services.php:98
+#: ../car-repair-addons/widgets/slickslider.php:263
+#: ../car-repair-addons/widgets/team_carousel.php:245
+#: ../car-repair-addons/widgets/testimonials-1.php:64
+#: ../car-repair-addons/widgets/testimonials.php:208
+msgid "Text Style"
+msgstr ""
+
+#: ../car-repair-addons/widgets/about-company.php:99
+#: ../car-repair-addons/widgets/about-us.php:109
+#: ../car-repair-addons/widgets/accordian.php:84
+#: ../car-repair-addons/widgets/additional-service.php:100
+#: ../car-repair-addons/widgets/banner.php:180
+#: ../car-repair-addons/widgets/banner.php:189
+#: ../car-repair-addons/widgets/banner_under_slider.php:125
+#: ../car-repair-addons/widgets/car-contact-page.php:132
+#: ../car-repair-addons/widgets/car-contact-page.php:141
+#: ../car-repair-addons/widgets/how-it-works.php:171
+#: ../car-repair-addons/widgets/how-it-works.php:178
+#: ../car-repair-addons/widgets/icon-box.php:108
+#: ../car-repair-addons/widgets/icon-box.php:117
+#: ../car-repair-addons/widgets/icon-box.php:126
+#: ../car-repair-addons/widgets/our-services.php:168
+#: ../car-repair-addons/widgets/services.php:106
+#: ../car-repair-addons/widgets/testimonials-1.php:73
+msgid "Title Typography"
+msgstr ""
+
+#: ../car-repair-addons/widgets/about-company.php:108
+#: ../car-repair-addons/widgets/about-us.php:127
+#: ../car-repair-addons/widgets/accordian.php:93
+#: ../car-repair-addons/widgets/additional-service.php:109
+#: ../car-repair-addons/widgets/banner.php:198
+#: ../car-repair-addons/widgets/banner_under_slider.php:134
+#: ../car-repair-addons/widgets/car-contact-page.php:150
+#: ../car-repair-addons/widgets/icon-box.php:135
+#: ../car-repair-addons/widgets/our-services.php:177
+#: ../car-repair-addons/widgets/services.php:115
+#: ../car-repair-addons/widgets/testimonials-1.php:82
+msgid "Content Typography"
+msgstr ""
+
+#: ../car-repair-addons/widgets/about-us-1.php:23
+msgid "About Us 1"
+msgstr ""
+
+#: ../car-repair-addons/widgets/about-us-1.php:49
+msgid "About <span class=\"color\">Us</span>"
+msgstr ""
+
+#: ../car-repair-addons/widgets/about-us-1.php:82
+msgid "Bottom Content"
+msgstr ""
+
+#: ../car-repair-addons/widgets/about-us-1.php:96
+msgid "Mission Statement"
+msgstr ""
+
+#: ../car-repair-addons/widgets/about-us-1.php:100
+#: ../car-repair-addons/widgets/accordian.php:64
+#: ../car-repair-addons/widgets/icon-box.php:87
+#: ../car-repair-addons/widgets/icon_thumb_box.php:98
+msgid "Description"
+msgstr ""
+
+#: ../car-repair-addons/widgets/about-us-1.php:119
+#: ../car-repair-addons/widgets/advantages-our-services.php:143
+#: ../car-repair-addons/widgets/banner.php:171
+#: ../car-repair-addons/widgets/car-blog.php:169
+#: ../car-repair-addons/widgets/car-brands.php:129
+#: ../car-repair-addons/widgets/car-contact-page.php:123
+#: ../car-repair-addons/widgets/car-estimate-form.php:128
+#: ../car-repair-addons/widgets/car-faqs-two.php:159
+#: ../car-repair-addons/widgets/car-price-slider.php:167
+#: ../car-repair-addons/widgets/car-question-form.php:87
+#: ../car-repair-addons/widgets/car_featured_services.php:197
+#: ../car-repair-addons/widgets/counter_block.php:239
+#: ../car-repair-addons/widgets/expert-service.php:146
+#: ../car-repair-addons/widgets/gallery.php:106
+#: ../car-repair-addons/widgets/how-it-works.php:153
+#: ../car-repair-addons/widgets/icon_thumb_box.php:134
+#: ../car-repair-addons/widgets/schedule_appointment.php:182
+#: ../car-repair-addons/widgets/service-gallery.php:155
+#: ../car-repair-addons/widgets/slickslider.php:271
+#: ../car-repair-addons/widgets/team_carousel.php:253
+msgid "Heading Typography"
+msgstr ""
+
+#: ../car-repair-addons/widgets/about-us-1.php:128
+#: ../car-repair-addons/widgets/advantages-our-services.php:152
+#: ../car-repair-addons/widgets/car-brands.php:138
+#: ../car-repair-addons/widgets/car-estimate-form.php:137
+#: ../car-repair-addons/widgets/car-price-slider.php:176
+#: ../car-repair-addons/widgets/car-question-form.php:96
+#: ../car-repair-addons/widgets/car_featured_services.php:206
+#: ../car-repair-addons/widgets/counter_block.php:248
+#: ../car-repair-addons/widgets/expert-service.php:155
+#: ../car-repair-addons/widgets/gallery.php:116
+#: ../car-repair-addons/widgets/how-it-works.php:162
+#: ../car-repair-addons/widgets/icon_thumb_box.php:143
+#: ../car-repair-addons/widgets/schedule_appointment.php:191
+#: ../car-repair-addons/widgets/service-gallery.php:164
+#: ../car-repair-addons/widgets/slickslider.php:280
+#: ../car-repair-addons/widgets/team_carousel.php:262
+msgid "Sub Heading Typography"
+msgstr ""
+
+#: ../car-repair-addons/widgets/about-us-1.php:137
+#: ../car-repair-addons/widgets/car-blog.php:178
+#: ../car-repair-addons/widgets/car-price-slider.php:185
+#: ../car-repair-addons/widgets/counter_block.php:257
+#: ../car-repair-addons/widgets/counter_block.php:277
+#: ../car-repair-addons/widgets/gallery.php:126
+#: ../car-repair-addons/widgets/icon_thumb_box.php:152
+#: ../car-repair-addons/widgets/team_carousel.php:271
+msgid "Item Title Typography"
+msgstr ""
+
+#: ../car-repair-addons/widgets/about-us-1.php:146
+#: ../car-repair-addons/widgets/car-blog.php:187
+#: ../car-repair-addons/widgets/icon_thumb_box.php:161
+#: ../car-repair-addons/widgets/team_carousel.php:280
+#: ../car-repair-addons/widgets/testimonials.php:217
+msgid "Item Content Typography"
+msgstr ""
+
+#: ../car-repair-addons/widgets/about-us-1.php:167
+#: ../car-repair-addons/widgets/about-us.php:154
+#: ../car-repair-addons/widgets/additional-service.php:130
+#: ../car-repair-addons/widgets/banner-services.php:151
+#: ../car-repair-addons/widgets/banner.php:238
+#: ../car-repair-addons/widgets/banner.php:252
+#: ../car-repair-addons/widgets/car-brands.php:174
+#: ../car-repair-addons/widgets/car-brands.php:186
+#: ../car-repair-addons/widgets/car-faqs-two.php:248
+#: ../car-repair-addons/widgets/car-price-slider.php:224
+#: ../car-repair-addons/widgets/car_featured_services.php:275
+#: ../car-repair-addons/widgets/counter_block.php:416
+#: ../car-repair-addons/widgets/schedule_appointment.php:248
+#: ../car-repair-addons/widgets/service-gallery.php:224
+#: ../car-repair-addons/widgets/team_carousel.php:354
+#: ../car-repair-addons/widgets/team_carousel.php:396
+#: ../car-repair-addons/widgets/testimonials.php:381
+#: ../car-repair-addons/widgets/testimonials.php:436
+msgid "Alt"
+msgstr ""
+
+#: ../car-repair-addons/widgets/about-us.php:24
+msgid "About Us"
+msgstr ""
+
+#: ../car-repair-addons/widgets/about-us.php:53
+msgid "Image For Tablet"
+msgstr ""
+
+#: ../car-repair-addons/widgets/about-us.php:64
+msgid ""
+"Quality Service and\n"
+"                Customer <span class=\"color\">Satisfaction!</span>"
+msgstr ""
+
+#: ../car-repair-addons/widgets/about-us.php:73
+#: ../car-repair-addons/widgets/icon-box.php:54
+#: ../car-repair-addons/widgets/icon_thumb_box.php:54
+#: ../car-repair-addons/widgets/team_carousel.php:55
+msgid "Sub Title 2"
+msgstr ""
+
+#: ../car-repair-addons/widgets/about-us.php:91
+#: ../post_type/custom-post-our-coupns.php:18
+msgid "Coupon"
+msgstr ""
+
+#: ../car-repair-addons/widgets/about-us.php:118
+msgid "Sub Title Typography"
+msgstr ""
+
+#: ../car-repair-addons/widgets/accordian.php:24
+msgid "Accordions"
+msgstr ""
+
+#: ../car-repair-addons/widgets/accordian.php:40
+#: ../car-repair-addons/widgets/banner.php:67
+#: ../car-repair-addons/widgets/icon-box.php:37
+#: ../car-repair-addons/widgets/icon_thumb_box.php:39
+#: ../car-repair-addons/widgets/slickslider.php:41
+#: ../car-repair-addons/widgets/slider-two.php:39
+#: ../car-repair-addons/widgets/team_carousel.php:114
+msgid "Content Settings"
+msgstr ""
+
+#: ../car-repair-addons/widgets/accordian.php:50
+#: ../car-repair-addons/widgets/car-contact-page.php:88
+msgid "Item 1"
+msgstr ""
+
+#: ../car-repair-addons/widgets/accordian.php:51
+msgid "Item 2"
+msgstr ""
+
+#: ../car-repair-addons/widgets/accordian.php:52
+msgid "Item 3"
+msgstr ""
+
+#: ../car-repair-addons/widgets/accordian.php:53
+msgid "Item 4"
+msgstr ""
+
+#: ../car-repair-addons/widgets/accordian.php:60
+msgid ""
+"I have a new car; do I need to take it to a dealership for maintenance in "
+"order to keep my warranty valid?"
+msgstr ""
+
+#: ../car-repair-addons/widgets/accordian.php:66
+msgid ""
+"No! Forget all about that old myth. As long as you follow the specifications "
+"given by the manufacturer (which can be found in your handy owner’s manual), "
+"your warranty is valid. At Car Repair Service, we always follow the "
+"manufacturer’s maintenance schedule. We’ll make sure your warranty remains "
+"valid and your car remains happy - for many miles to come!"
+msgstr ""
+
+#: ../car-repair-addons/widgets/additional-service.php:22
+msgid "Additional Service"
+msgstr ""
+
+#: ../car-repair-addons/widgets/additional-service.php:48
+msgid "Additional"
+msgstr ""
+
+#: ../car-repair-addons/widgets/additional-service.php:54
+#: ../car-repair-addons/widgets/expert-service.php:55
+#: ../car-repair-addons/widgets/testimonials.php:58
+msgid "Subtitle"
+msgstr ""
+
+#: ../car-repair-addons/widgets/additional-service.php:57
+#: ../car-repair-addons/widgets/our-services.php:69
+msgid "Below are some of the many auto repair services we offer:"
+msgstr ""
+
+#: ../car-repair-addons/widgets/additional-service.php:82
+#: ../car-repair-addons/widgets/car-blog.php:86
+#: ../car-repair-addons/widgets/car-brands.php:102
+#: ../car-repair-addons/widgets/car-faqs-two.php:121
+#: ../car-repair-addons/widgets/car-price-slider.php:119
+#: ../car-repair-addons/widgets/car_featured_services.php:166
+#: ../car-repair-addons/widgets/expert-service.php:64
+#: ../car-repair-addons/widgets/schedule_appointment.php:96
+#: ../car-repair-addons/widgets/service-modal.php:59
+#: ../car-repair-addons/widgets/slickslider.php:101
+#: ../vc_element/vc_map_home_page_coupon.php:83
+msgid "Button Text"
+msgstr ""
+
+#: ../car-repair-addons/widgets/additional-service.php:85
+#: ../car-repair-addons/widgets/expert-service.php:67
+#: ../car-repair-addons/widgets/our-services.php:229
+msgid "+ More Services"
+msgstr ""
+
+#: ../car-repair-addons/widgets/advantages-our-services.php:23
+msgid "Advantages Our Services"
+msgstr ""
+
+#: ../car-repair-addons/widgets/advantages-our-services.php:39
+#: ../car-repair-addons/widgets/our-services.php:39
+msgid "Section"
+msgstr ""
+
+#: ../car-repair-addons/widgets/advantages-our-services.php:46
+#: ../car-repair-addons/widgets/banner-services.php:43
+#: ../car-repair-addons/widgets/banner_under_slider.php:51
+#: ../car-repair-addons/widgets/car-brands.php:51
+#: ../car-repair-addons/widgets/car-price-slider.php:58
+#: ../car-repair-addons/widgets/car-price-table.php:40
+#: ../car-repair-addons/widgets/car_featured_services.php:46
+#: ../car-repair-addons/widgets/our-services.php:56
+#: ../car-repair-addons/widgets/service-gallery.php:46
+msgid "Title 1"
+msgstr ""
+
+#: ../car-repair-addons/widgets/advantages-our-services.php:49
+msgid "Advantages <br> of <span class=\"color\">Our Service</span>"
+msgstr ""
+
+#: ../car-repair-addons/widgets/advantages-our-services.php:55
+#: ../car-repair-addons/widgets/banner-services.php:51
+#: ../car-repair-addons/widgets/banner_under_slider.php:60
+#: ../car-repair-addons/widgets/car-brands.php:61
+#: ../car-repair-addons/widgets/car-estimate-form.php:56
+#: ../car-repair-addons/widgets/car-price-slider.php:69
+#: ../car-repair-addons/widgets/car-price-table.php:50
+#: ../car-repair-addons/widgets/car_featured_services.php:56
+#: ../car-repair-addons/widgets/our-services.php:66
+#: ../car-repair-addons/widgets/schedule_appointment.php:78
+#: ../car-repair-addons/widgets/service-gallery.php:55
+msgid "Title 2"
+msgstr ""
+
+#: ../car-repair-addons/widgets/advantages-our-services.php:58
+msgid ""
+"Auto servicing your car is an essential task that should not be ignored or "
+"forgotten."
+msgstr ""
+
+#: ../car-repair-addons/widgets/advantages-our-services.php:64
+#: ../car-repair-addons/widgets/our-services.php:76
+msgid "BG TEXT"
+msgstr ""
+
+#: ../car-repair-addons/widgets/advantages-our-services.php:67
+#: ../car-repair-addons/widgets/our-advantage.php:52
+msgid "Advantages"
+msgstr ""
+
+#: ../car-repair-addons/widgets/advantages-our-services.php:73
+#: ../car-repair-addons/widgets/our-services.php:85
+msgid "Button TEXT"
+msgstr ""
+
+#: ../car-repair-addons/widgets/advantages-our-services.php:76
+#: ../car-repair-addons/widgets/advantages-our-services.php:85
+msgid "Get a Quote"
+msgstr ""
+
+#: ../car-repair-addons/widgets/advantages-our-services.php:82
+#: ../car-repair-addons/widgets/car-faqs-two.php:129
+#: ../car-repair-addons/widgets/our-services.php:95
+#: ../car-repair-addons/widgets/slickslider.php:116
+msgid "Button Link"
+msgstr ""
+
+#: ../car-repair-addons/widgets/advantages-our-services.php:101
+#: ../car-repair-addons/widgets/car-contact-page.php:93
+#: ../car-repair-addons/widgets/counter_block.php:97
+#: ../car-repair-addons/widgets/expert-service.php:85
+#: ../car-repair-addons/widgets/icon-box.php:75
+#: ../car-repair-addons/widgets/icon_thumb_box.php:86
+#: ../car-repair-services-core.php:298 ../car-repair-services-core.php:315
+#: ../car-repair-services-core.php:332 ../car-repair-services-core.php:349
+#: ../car-repair-services-core.php:365 ../car-repair-services-core.php:382
+#: ../car-repair-services-core.php:401 ../lib/config.meta.box.php:261
+msgid "Icon"
+msgstr ""
+
+#: ../car-repair-addons/widgets/advantages-our-services.php:110
+msgid "Customer-Oriented Service"
+msgstr ""
+
+#: ../car-repair-addons/widgets/advantages-our-services.php:119
+msgid ""
+"We value the service we provide and our loyal returning customers can always "
+"expect some appreciation from us, like a future service discount or a"
+msgstr ""
+
+#: ../car-repair-addons/widgets/advantages-our-services.php:126
+#: ../car-repair-addons/widgets/car-faqs-two.php:77
+#: ../car-repair-addons/widgets/car-price-slider.php:143
+#: ../car-repair-addons/widgets/car-price-table.php:99
+#: ../car-repair-addons/widgets/car_featured_services.php:150
+#: ../car-repair-addons/widgets/counter_block.php:192
+#: ../car-repair-addons/widgets/coupons-carousel.php:112
+#: ../car-repair-addons/widgets/expert-service.php:113
+#: ../car-repair-addons/widgets/our-advantage.php:77
+#: ../car-repair-addons/widgets/our-services.php:140
+#: ../car-repair-addons/widgets/service-gallery.php:72
+#: ../car-repair-addons/widgets/service-modal.php:106
+msgid "Item List"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner-services.php:21
+msgid "Banner Services"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner-services.php:45
+msgid "24 Hour</span> Breakdown Service"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner-services.php:53
+msgid ""
+"To order a Breakdown Recovery Service now or if you require a quote, please "
+"contact us"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner-services.php:59
+msgid "Title 3"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner-services.php:61
+msgid "1-800-123-4567"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner-services.php:67
+msgid "Title 4"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner-services.php:69
+msgid ""
+"Whether you’re the driver of your own car or a rental, you’re covered 24/7, "
+"365 days a year"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner-services.php:85
+msgid "Action Link"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner-services.php:105
+msgid "Title 1 Typography"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner-services.php:114
+msgid "Title 2 Typography"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner-services.php:123
+msgid "Title 3 Typography"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner-services.php:132
+msgid "Title 4 Typography"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner.php:23
+#: ../vc_element/vc_map_service_banner.php:4
+msgid "Banner"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner.php:39
+msgid "Heading Title"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner.php:46
+#: ../car-repair-addons/widgets/car-contact-page.php:54
+#: ../car-repair-addons/widgets/icon_thumb_box.php:92
+#: ../car-repair-addons/widgets/slider-two.php:81
+msgid "Heading"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner.php:49
+msgid "What We Do"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner.php:56
+#: ../car-repair-addons/widgets/car-contact-page.php:66
+#: ../car-repair-addons/widgets/slickslider.php:80
+#: ../car-repair-addons/widgets/slider-two.php:88
+msgid "Sub Heading"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner.php:59
+#: ../car-repair-addons/widgets/car_featured_services.php:59
+msgid "We offer full service auto repair & maintenance"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner.php:77
+#: ../car-repair-addons/widgets/banner.php:78
+#: ../car-repair-addons/widgets/banner.php:79
+#: ../car-repair-addons/widgets/banner.php:80
+#: ../car-repair-addons/widgets/icon-box.php:67
+#: ../car-repair-addons/widgets/icon-box.php:68
+#: ../car-repair-addons/widgets/icon-box.php:69
+#: ../car-repair-addons/widgets/icon_thumb_box.php:79
+#: ../car-repair-addons/widgets/icon_thumb_box.php:80
+#: ../car-repair-addons/widgets/icon_thumb_box.php:81
+#: ../car-repair-addons/widgets/slider-two.php:49
+#: ../car-repair-addons/widgets/slider-two.php:50
+#: ../car-repair-addons/widgets/slider-two.php:51
+#: ../car-repair-addons/widgets/team_carousel.php:124
+#: ../car-repair-addons/widgets/team_carousel.php:125
+msgid "Item"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner.php:85
+#: ../car-repair-addons/widgets/banner.php:87
+#: ../car-repair-addons/widgets/expert-service.php:93
+#: ../car-repair-addons/widgets/slider-two.php:56
+#: ../car-repair-addons/widgets/slider-two.php:58
+msgid "Tab Title"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner.php:91
+#: ../vc_element/vc_map_service_banner.php:15
+msgid "Background Type"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner.php:95
+msgid "Text & Image"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner.php:96
+msgid "Only Image"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner.php:104
+msgid "Preventative<br>Maintenance"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner.php:114
+msgid "The best way to minimize breakdowns is doing routine maintenance"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner.php:142
+msgid "Bg Text"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner.php:147
+msgid "Bg Text Class"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner_under_slider.php:29
+#: ../car-repair-addons/widgets/banner_under_slider.php:44
+msgid "Banner Under Slider"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner_under_slider.php:53
+msgid "After Hours"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner_under_slider.php:62
+msgid "Drop-OFF"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner_under_slider.php:91
+msgid "Action Button Text"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner_under_slider.php:93
+msgid "Get Estimate"
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner_under_slider.php:101
+msgid ""
+"We realize that you lead a busy life, so we have made it easy for you to "
+"drop off your vehicle 24/7."
+msgstr ""
+
+#: ../car-repair-addons/widgets/banner_under_slider.php:108
+#: ../vc_element/vc_map_banner_under_slider.php:41
+#: ../vc_element/vc_map_testimonials.php:109
+#: ../vc_element/vc_map_trust_products.php:27
+msgid "Add Extra Class"
+msgstr ""
+
+#: ../car-repair-addons/widgets/blog_posts.php:18
+msgid "Blog Posts"
+msgstr ""
+
+#: ../car-repair-addons/widgets/blog_posts.php:34
+#: ../car-repair-addons/widgets/our-services.php:79
+#: ../car-repair-addons/widgets/services.php:23
+#: ../car-repair-addons/widgets/services.php:39
+#: ../post_type/custom-post-services.php:8
+msgid "Services"
+msgstr ""
+
+#: ../car-repair-addons/widgets/blog_posts.php:41
+#: ../vc_element/vc_map_blog.php:17
+msgid "Layout"
+msgstr ""
+
+#: ../car-repair-addons/widgets/blog_posts.php:45 ../color_schema/default.php:4
+msgid "Default"
+msgstr ""
+
+#: ../car-repair-addons/widgets/blog_posts.php:46
+msgid "Card view"
+msgstr ""
+
+#: ../car-repair-addons/widgets/blog_posts.php:54
+#: ../car-repair-addons/widgets/services.php:64
+#: ../vc_element/vc_map_blog.php:26
+msgid "Pagination"
+msgstr ""
+
+#: ../car-repair-addons/widgets/blog_posts.php:58
+msgid "No pagination or post navigation"
+msgstr ""
+
+#: ../car-repair-addons/widgets/blog_posts.php:59
+msgid "Post Navigation"
+msgstr ""
+
+#: ../car-repair-addons/widgets/blog_posts.php:60
+msgid "Post Ajax load mote"
+msgstr ""
+
+#: ../car-repair-addons/widgets/blog_posts.php:113
+#: ../car-repair-addons/widgets/blog_posts.php:118
+#: ../car-repair-addons/widgets/blog_posts.php:183
+#: ../shortcode/shortcode_blog.php:86 ../shortcode/shortcode_blog.php:91
+#: ../shortcode/shortcode_blog.php:165
+#: ../widgets/smart-posts-grid-widget.php:99
+msgid "by"
+msgstr ""
+
+#: ../car-repair-addons/widgets/blog_posts.php:115
+#: ../shortcode/shortcode_blog.php:88 ../widgets/smart-posts-grid-widget.php:95
+msgid "0"
+msgstr ""
+
+#: ../car-repair-addons/widgets/blog_posts.php:115
+#: ../car-repair-addons/widgets/car-blog.php:117
+#: ../shortcode/shortcode_blog.php:88 ../widgets/smart-posts-grid-widget.php:95
+msgid "1"
+msgstr ""
+
+#: ../car-repair-addons/widgets/blog_posts.php:115
+#: ../shortcode/shortcode_blog.php:88 ../widgets/smart-posts-grid-widget.php:95
+msgid "%"
+msgstr ""
+
+#: ../car-repair-addons/widgets/blog_posts.php:118
+#: ../car-repair-addons/widgets/blog_posts.php:183
+#: ../shortcode/shortcode_blog.php:91 ../shortcode/shortcode_blog.php:165
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../car-repair-addons/widgets/blog_posts.php:121
+#: ../shortcode/shortcode_blog.php:94
+msgid "Continue Reading"
+msgstr ""
+
+#: ../car-repair-addons/widgets/blog_posts.php:144
+#: ../car-repair-addons/widgets/blog_posts.php:202
+#: ../shortcode/shortcode_blog.php:119 ../shortcode/shortcode_blog.php:186
+msgid "More Posts"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-blog.php:21
+msgid "Blog"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-blog.php:61
+msgid "Blogs"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-blog.php:71
+msgid "News & Update"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-blog.php:80
+msgid "News"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-blog.php:89
+msgid "Read More"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-blog.php:96
+#: ../vc_element/vc_map_icon_tabs.php:68
+msgid "Category"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-blog.php:104
+msgid "Number of Post"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-blog.php:113
+msgid "Number of Column"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-blog.php:118
+msgid "2"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-blog.php:119
+msgid "3"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-blog.php:120
+msgid "4"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-blog.php:129
+#: ../car-repair-addons/widgets/gallery.php:68
+#: ../vc_element/vc_map_gallery.php:19
+msgid "Order By"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-blog.php:133
+#: ../car-repair-addons/widgets/gallery.php:72
+#: ../widgets/smart-posts-grid-widget.php:35
+msgid "Date"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-blog.php:134
+#: ../car-repair-addons/widgets/gallery.php:73
+#: ../widgets/smart-posts-grid-widget.php:34
+msgid "ID"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-blog.php:135
+msgid "Author"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-blog.php:137
+#: ../car-repair-addons/widgets/gallery.php:76
+msgid "Modified"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-blog.php:138
+#: ../widgets/smart-posts-grid-widget.php:37
+msgid "Random"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-blog.php:139
+msgid "Comment count"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-blog.php:140
+msgid "Menu order"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-blog.php:148
+msgid "Order"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-blog.php:152
+msgid "DESC"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-blog.php:153
+msgid "ASC"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-brands.php:29 ../vc_element/vc_map_
+#: brands.php:3
+msgid "Brands"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-brands.php:53
+#: ../car-repair-addons/widgets/car-brands.php:63
+msgid "Find here your vehicle"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-brands.php:73
+msgid "Brand image"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-brands.php:83
+msgid "Brand Link"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-brands.php:94
+#: ../car-repair-addons/widgets/how-it-works.php:134
+msgid "Brand List"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-brands.php:104
+msgid "View All Makes"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-brands.php:111
+msgid "Button Text 2"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-brands.php:113
+msgid "Show Less Makes"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-contact-page.php:23
+msgid "Contact Page"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-contact-page.php:38
+msgid "Widget Content"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-contact-page.php:46
+msgid "Background"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-contact-page.php:58
+msgid "Get In Touch!"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-contact-page.php:68
+#: ../car-repair-addons/widgets/car-question-form.php:59
+msgid "Get your automotive-related questions answered by a mechanic"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-contact-page.php:74
+#: ../car-repair-addons/widgets/car-estimate-form.php:78
+#: ../car-repair-addons/widgets/car-question-form.php:66
+#: ../car-repair-addons/widgets/contact_form_7.php:41
+#: ../car-repair-addons/widgets/safety_recalls.php:58
+msgid "Select Contact Form"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-contact-page.php:75
+#: ../car-repair-addons/widgets/car-estimate-form.php:79
+#: ../car-repair-addons/widgets/car-question-form.php:67
+#: ../car-repair-addons/widgets/safety_recalls.php:59
+msgid ""
+"Contact form 7 - plugin must be installed and there must be some contact "
+"forms made with the contact form 7"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-contact-page.php:100
+msgid "Post Address"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-contact-page.php:104
+msgid "Conetnt"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-contact-page.php:106
+msgid "2605 Caton Hill Road, Woodbridge,<br>VA 22192"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-estimate-form.php:23
+msgid "Estimate From"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-estimate-form.php:39
+msgid "Estimate"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-estimate-form.php:49
+msgid "Car Repair Estimator"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-estimate-form.php:59
+msgid "Get a location-based car repair estimate"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-estimate-form.php:65
+#: ../vc_element/vc_map_estimator_form.php:38
+msgid "Estimator Form Select"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-estimate-form.php:70
+msgid "Load From Contact Form 7"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-estimate-form.php:71
+msgid "Load From Estimator Form Plugin"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-estimate-form.php:99
+#: ../car-repair-addons/widgets/counter_block.php:201
+#: ../car-repair-addons/widgets/service-modal.php:71
+msgid "Right Content"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-faqs-two.php:23
+msgid "Car Faqs 2"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-faqs-two.php:39
+msgid "FAQ List"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-faqs-two.php:49
+msgid "Auto Maintenance FAQs"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-faqs-two.php:50
+#: ../car-repair-addons/widgets/car-faqs-two.php:62
+#: ../car-repair-addons/widgets/car-faqs-two.php:70
+#: ../car-repair-addons/widgets/car-price-slider.php:62
+#: ../car-repair-addons/widgets/car-price-slider.php:73
+#: ../car-repair-addons/widgets/car-price-slider.php:96
+#: ../car-repair-addons/widgets/car-price-table.php:74
+#: ../car-repair-addons/widgets/car-price-table.php:83
+#: ../car-repair-addons/widgets/car-price-table.php:92
+#: ../car-repair-addons/widgets/car_featured_services.php:101
+#: ../car-repair-addons/widgets/expert-service.php:96
+#: ../car-repair-addons/widgets/our-services.php:60
+#: ../car-repair-addons/widgets/our-services.php:70
+#: ../car-repair-addons/widgets/our-services.php:133
+msgid "Type your title here"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-faqs-two.php:59
+#: ../vc_element/vc_map_faqs.php:36
+msgid "Question"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-faqs-two.php:68
+msgid "Answere"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-faqs-two.php:82
+msgid "Q: How often should I get my oil changed?"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-faqs-two.php:83
+msgid ""
+"A: For a long time and sometimes still today, standard practice at many lube "
+"shops is to suggest oil changes every three months or 3,000 miles. In order "
+"to know when the best time to get your oil changed is, check the owner’s "
+"manual of your specific model for manufacturer-recommended intervals."
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-faqs-two.php:93
+msgid "Content Section"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-faqs-two.php:114
+msgid "Diagnostics,<br>Repairs &amp; Servicing"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-faqs-two.php:141
+msgid "Select Service Banner"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-faqs-two.php:169
+msgid "Faq Title Typography"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-faqs-two.php:178
+msgid "Faq Content Typography"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-price-slider.php:23
+msgid "Car Price Slider"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-price-slider.php:50
+#: ../car-repair-addons/widgets/counter_block.php:80
+#: ../car-repair-addons/widgets/how-it-works.php:65
+#: ../car-repair-addons/widgets/our-advantage.php:42
+#: ../car-repair-addons/widgets/our-services.php:47
+#: ../car-repair-addons/widgets/schedule_appointment.php:60
+msgid "Background Image"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-price-slider.php:61
+msgid "Our Pricing Plans"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-price-slider.php:72
+msgid "Fixed price car servicing packages"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-price-slider.php:102
+#: ../car-repair-addons/widgets/service-modal.php:98
+#: ../vc_element/vc_map_pricing_plans.php:56
+msgid "Price"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-price-slider.php:128
+#: ../car-repair-addons/widgets/schedule_appointment.php:118
+msgid "Button URL"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-price-slider.php:136
+msgid "Active"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-price-slider.php:148
+msgid "Engine Coolant Inspection & Service"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-price-slider.php:149
+msgid "$59<sup>99</sup>"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-price-slider.php:150
+msgid ""
+"Drain & Replace with up to 1 Gallon of Antifreeze, Inspect all hoses, "
+"fittings and water pump."
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-price-table.php:17
+msgid "Price Table"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-price-table.php:43
+msgid "Low Overhead Means Savings for You"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-price-table.php:53
+msgid "We are able to negotiate better prices from the auto parts vendors"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-price-table.php:71
+#: ../post_type/custom-post-services.php:9
+msgid "Service"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-price-table.php:80
+#: ../car-repair-addons/widgets/car-price-table.php:134
+msgid "Time"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-price-table.php:89
+msgid "Average Price"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-price-table.php:104
+msgid "Alternator Repair"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-price-table.php:133
+msgid "Your Car Service"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-price-table.php:135
+msgid "Cost Range"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-question-form.php:23
+msgid "Car Question Form"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car-question-form.php:49
+msgid "Have a Car Repair Question?"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car_featured_services.php:23
+#: ../vc_element/vc_map_featured_sevices.php:3
+msgid "Featured Services"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car_featured_services.php:49
+msgid "Our Featured Services"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car_featured_services.php:69
+#: ../car-repair-addons/widgets/our-services.php:23
+msgid "Our Services"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car_featured_services.php:78
+msgid "Tab Section"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car_featured_services.php:98
+msgid "Title one"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car_featured_services.php:108
+msgid "Title two"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car_featured_services.php:124
+#: ../vc_element/vc_map_featured_sevices.php:88
+msgid "Icon Position Left"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car_featured_services.php:133
+#: ../vc_element/vc_map_featured_sevices.php:96
+msgid "Icon Position Top"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car_featured_services.php:141
+#: ../car-repair-addons/widgets/service-modal.php:18
+msgid "Service Modal"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car_featured_services.php:155
+#: ../car-repair-addons/widgets/service-modal.php:44
+msgid "Diagnostics"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car_featured_services.php:168
+msgid "read more"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car_featured_services.php:215
+#: ../car-repair-addons/widgets/expert-service.php:164
+msgid "Tab Title Typography"
+msgstr ""
+
+#: ../car-repair-addons/widgets/car_featured_services.php:224
+msgid "Tab Content Typography"
+msgstr ""
+
+#: ../car-repair-addons/widgets/contact_form_7.php:18
+msgid "Contact From 7"
+msgstr ""
+
+#: ../car-repair-addons/widgets/contact_form_7.php:34
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../car-repair-addons/widgets/contact_form_7.php:42
+msgid "Contact form 7"
+msgstr ""
+
+#: ../car-repair-addons/widgets/contact_form_7.php:54
+msgid "After Submit Redirect Setting"
+msgstr ""
+
+#: ../car-repair-addons/widgets/contact_form_7.php:61
+msgid "On Success Redirect To"
+msgstr ""
+
+#: ../car-repair-addons/widgets/contact_form_7.php:62
+msgid ""
+"Select a page which you want users to redirect to when the contact fom is "
+"submitted and is successful. Leave Blank to Disable"
+msgstr ""
+
+#: ../car-repair-addons/widgets/counter_block.php:28
+msgid "Counter Block"
+msgstr ""
+
+#: ../car-repair-addons/widgets/counter_block.php:49
+#: ../car-repair-addons/widgets/how-it-works.php:51
+#: ../car-repair-addons/widgets/icon_thumb_box.php:63
+#: ../car-repair-addons/widgets/schedule_appointment.php:47
+#: ../car-repair-addons/widgets/team_carousel.php:99
+#: ../car-repair-addons/widgets/testimonials.php:76
+#: ../vc_element/vc_map_testimonials.php:13
+msgid "Style"
+msgstr ""
+
+#: ../car-repair-addons/widgets/counter_block.php:53
+#: ../car-repair-addons/widgets/how-it-works.php:55
+#: ../car-repair-addons/widgets/schedule_appointment.php:51
+#: ../car-repair-addons/widgets/slickslider.php:135
+#: ../car-repair-addons/widgets/slider-two.php:112
+msgid "Style 1"
+msgstr ""
+
+#: ../car-repair-addons/widgets/counter_block.php:54
+#: ../car-repair-addons/widgets/how-it-works.php:56
+#: ../car-repair-addons/widgets/schedule_appointment.php:52
+#: ../car-repair-addons/widgets/slickslider.php:136
+#: ../car-repair-addons/widgets/slider-two.php:113
+msgid "Style 2"
+msgstr ""
+
+#: ../car-repair-addons/widgets/counter_block.php:63
+msgid "The Car Repair Statistics"
+msgstr ""
+
+#: ../car-repair-addons/widgets/counter_block.php:72
+msgid ""
+"Auto repair technical statistics you must to know. Whether you're coming in "
+"for a routine inspection, oil change or a repair service, we promise that "
+"you will be completely satisfied with our work."
+msgstr ""
+
+#: ../car-repair-addons/widgets/counter_block.php:91
+msgid "YEARS OF EXPERIENCE"
+msgstr ""
+
+#: ../car-repair-addons/widgets/counter_block.php:105
+msgid "Counter Value"
+msgstr ""
+
+#: ../car-repair-addons/widgets/counter_block.php:113
+msgid "Counter Text"
+msgstr ""
+
+#: ../car-repair-addons/widgets/counter_block.php:121
+#: ../car-repair-addons/widgets/slickslider.php:252
+#: ../car-repair-addons/widgets/slider-two.php:204
+#: ../vc_element/vc_map_slickslider.php:65
+#: ../vc_element/vc_map_slickslider_2.php:75
+msgid "Speed"
+msgstr ""
+
+#: ../car-repair-addons/widgets/counter_block.php:129
+msgid "After Counter Number"
+msgstr ""
+
+#: ../car-repair-addons/widgets/counter_block.php:136
+msgid "Another Counter Number"
+msgstr ""
+
+#: ../car-repair-addons/widgets/counter_block.php:143
+msgid "Counter Text Two"
+msgstr ""
+
+#: ../car-repair-addons/widgets/counter_block.php:159
+msgid "Counter Value Two"
+msgstr ""
+
+#: ../car-repair-addons/widgets/counter_block.php:176
+msgid "After Counter Number Two"
+msgstr ""
+
+#: ../car-repair-addons/widgets/counter_block.php:221
+msgid "Button Class"
+msgstr ""
+
+#: ../car-repair-addons/widgets/counter_block.php:223
+msgid "js-popup"
+msgstr ""
+
+#: ../car-repair-addons/widgets/counter_block.php:267
+#: ../car-repair-addons/widgets/counter_block.php:287
+msgid "Item Number Typography"
+msgstr ""
+
+#: ../car-repair-addons/widgets/coupons-carousel.php:19
+msgid "Coupons Carousel"
+msgstr ""
+
+#: ../car-repair-addons/widgets/coupons-carousel.php:35
+msgid "Coupns"
+msgstr ""
+
+#: ../car-repair-addons/widgets/coupons-carousel.php:43
+msgid "date"
+msgstr ""
+
+#: ../car-repair-addons/widgets/coupons-carousel.php:52
+#: ../car-repair-addons/widgets/home_page_coupns.php:51
+#: ../vc_element/vc_map_home_page_coupon.php:33
+msgid "Currency Symbol"
+msgstr ""
+
+#: ../car-repair-addons/widgets/coupons-carousel.php:61
+#: ../car-repair-addons/widgets/home_page_coupns.php:60
+#: ../vc_element/vc_map_home_page_coupon.php:40
+msgid "Currency Price"
+msgstr ""
+
+#: ../car-repair-addons/widgets/coupons-carousel.php:70
+#: ../car-repair-addons/widgets/home_page_coupns.php:69
+#: ../vc_element/vc_map_home_page_coupon.php:47
+msgid "Currency Text"
+msgstr ""
+
+#: ../car-repair-addons/widgets/coupons-carousel.php:78
+#: ../car-repair-addons/widgets/home_page_coupns.php:77
+msgid "Type"
+msgstr ""
+
+#: ../car-repair-addons/widgets/coupons-carousel.php:96
+#: ../car-repair-addons/widgets/home_page_coupns.php:95
+#: ../lib/config.meta.box.php:293 ../vc_element/vc_map_ brands.php:24
+#: ../vc_element/vc_map_banner_free.php:39
+#: ../vc_element/vc_map_featured_sevices.php:22
+#: ../vc_element/vc_map_featured_sevices2.php:25
+#: ../vc_element/vc_map_home_page_coupon.php:74
+#: ../vc_element/vc_map_how_it_works.php:25
+#: ../vc_element/vc_map_pricing_plans.php:23
+msgid "Sub Title"
+msgstr ""
+
+#: ../car-repair-addons/widgets/coupons-carousel.php:105
+msgid "Featured"
+msgstr ""
+
+#: ../car-repair-addons/widgets/coupons-carousel.php:121
+#: ../car-repair-addons/widgets/service-gallery.php:81
+#: ../car-repair-addons/widgets/team_carousel.php:179
+msgid "Carousel Settings"
+msgstr ""
+
+#: ../car-repair-addons/widgets/coupons-carousel.php:127
+#: ../car-repair-addons/widgets/service-gallery.php:87
+#: ../car-repair-addons/widgets/team_carousel.php:185
+#: ../car-repair-addons/widgets/testimonials.php:127
+#: ../vc_element/vc_map_icon_box.php:14 ../vc_element/vc_map_team.php:42
+#: ../vc_element/vc_map_team.php:112 ../vc_element/vc_map_testimonials.php:29
+msgid "How many Slides to show?"
+msgstr ""
+
+#: ../car-repair-addons/widgets/coupons-carousel.php:137
+#: ../car-repair-addons/widgets/service-gallery.php:97
+#: ../car-repair-addons/widgets/team_carousel.php:195
+#: ../car-repair-addons/widgets/testimonials.php:137
+msgid "How many Slides to Scroll?"
+msgstr ""
+
+#: ../car-repair-addons/widgets/coupons-carousel.php:146
+#: ../car-repair-addons/widgets/service-gallery.php:106
+#: ../car-repair-addons/widgets/slickslider.php:182
+#: ../car-repair-addons/widgets/slider-two.php:134
+#: ../car-repair-addons/widgets/team_carousel.php:204
+#: ../car-repair-addons/widgets/testimonials.php:157
+msgid "Autoplay Slides"
+msgstr ""
+
+#: ../car-repair-addons/widgets/coupons-carousel.php:147
+#: ../car-repair-addons/widgets/service-gallery.php:107
+#: ../car-repair-addons/widgets/slickslider.php:183
+#: ../car-repair-addons/widgets/slider-two.php:135
+#: ../car-repair-addons/widgets/team_carousel.php:205
+#: ../car-repair-addons/widgets/testimonials.php:158
+msgid "Slide will start automatically"
+msgstr ""
+
+#: ../car-repair-addons/widgets/coupons-carousel.php:156
+#: ../car-repair-addons/widgets/service-gallery.php:116
+#: ../car-repair-addons/widgets/slickslider.php:192
+#: ../car-repair-addons/widgets/slider-two.php:144
+#: ../car-repair-addons/widgets/team_carousel.php:214
+#: ../car-repair-addons/widgets/testimonials.php:167
+#: ../vc_element/vc_map_slickslider.php:25
+#: ../vc_element/vc_map_slickslider_2.php:35 ../vc_element/vc_map_team.php:83
+#: ../vc_element/vc_map_team.php:152 ../vc_element/vc_map_testimonials.php:69
+msgid "Autoplay Speed"
+msgstr ""
+
+#: ../car-repair-addons/widgets/coupons-carousel.php:166
+#: ../car-repair-addons/widgets/coupons-carousel.php:167
+#: ../car-repair-addons/widgets/service-gallery.php:126
+#: ../car-repair-addons/widgets/service-gallery.php:127
+#: ../car-repair-addons/widgets/slickslider.php:202
+#: ../car-repair-addons/widgets/slickslider.php:203
+#: ../car-repair-addons/widgets/slider-two.php:154
+#: ../car-repair-addons/widgets/slider-two.php:155
+#: ../car-repair-addons/widgets/team_carousel.php:224
+#: ../car-repair-addons/widgets/team_carousel.php:225
+#: ../car-repair-addons/widgets/testimonials.php:177
+#: ../car-repair-addons/widgets/testimonials.php:178
+#: ../vc_element/vc_map_icon_box.php:43
+#: ../vc_element/vc_map_service_banner.php:144
+#: ../vc_element/vc_map_slickslider.php:32
+#: ../vc_element/vc_map_slickslider_2.php:42 ../vc_element/vc_map_team.php:90
+#: ../vc_element/vc_map_team.php:159 ../vc_element/vc_map_testimonials.php:76
+msgid "Enable Arrows"
+msgstr ""
+
+#: ../car-repair-addons/widgets/coupons-carousel.php:176
+#: ../car-repair-addons/widgets/coupons-carousel.php:177
+#: ../car-repair-addons/widgets/service-gallery.php:136
+#: ../car-repair-addons/widgets/service-gallery.php:137
+#: ../car-repair-addons/widgets/slickslider.php:212
+#: ../car-repair-addons/widgets/slickslider.php:213
+#: ../car-repair-addons/widgets/slider-two.php:164
+#: ../car-repair-addons/widgets/slider-two.php:165
+#: ../car-repair-addons/widgets/team_carousel.php:234
+#: ../car-repair-addons/widgets/team_carousel.php:235
+#: ../car-repair-addons/widgets/testimonials.php:187
+#: ../car-repair-addons/widgets/testimonials.php:188
+#: ../vc_element/vc_map_icon_box.php:54
+#: ../vc_element/vc_map_service_banner.php:155
+#: ../vc_element/vc_map_slickslider.php:43
+#: ../vc_element/vc_map_slickslider_2.php:53 ../vc_element/vc_map_team.php:101
+#: ../vc_element/vc_map_team.php:170 ../vc_element/vc_map_testimonials.php:87
+msgid "Enable Dots"
+msgstr ""
+
+#: ../car-repair-addons/widgets/coupons-carousel.php:253
+#: ../shortcode/shortcode_coupns.php:83
+msgid "Print Coupon"
+msgstr ""
+
+#: ../car-repair-addons/widgets/expert-service.php:23
+msgid "Expert Service"
+msgstr ""
+
+#: ../car-repair-addons/widgets/expert-service.php:49
+msgid "We Provide Expert Service"
+msgstr ""
+
+#: ../car-repair-addons/widgets/expert-service.php:58
+msgid "We aim to earn your trust and have a long term relationship with you"
+msgstr ""
+
+#: ../car-repair-addons/widgets/expert-service.php:120
+msgid "Additional Services"
+msgstr ""
+
+#: ../car-repair-addons/widgets/expert-service.php:124
+msgid "Our Advantages"
+msgstr ""
+
+#: ../car-repair-addons/widgets/gallery.php:23
+#: ../car-repair-addons/widgets/gallery.php:39
+#: ../car-repair-addons/widgets/gallery.php:50
+#: ../car-repair-addons/widgets/service-gallery.php:40
+#: ../lib/sds_cpt_gallery.php:6 ../lib/sds_cpt_gallery.php:7
+msgid "Gallery"
+msgstr ""
+
+#: ../car-repair-addons/widgets/gallery.php:46
+msgid "Style Select"
+msgstr ""
+
+#: ../car-repair-addons/widgets/gallery.php:51
+msgid "Сomparisons Gallery"
+msgstr ""
+
+#: ../car-repair-addons/widgets/gallery.php:59
+#: ../vc_element/vc_map_gallery.php:11
+msgid "Number of Gallary"
+msgstr ""
+
+#: ../car-repair-addons/widgets/gallery.php:75 ../lib/sidebar_generator.php:192
+msgid "Name"
+msgstr ""
+
+#: ../car-repair-addons/widgets/gallery.php:77
+msgid "Rand"
+msgstr ""
+
+#: ../car-repair-addons/widgets/gallery.php:85
+#: ../vc_element/vc_map_gallery.php:34 ../vc_element/vc_map_services.php:38
+msgid "Sort Order"
+msgstr ""
+
+#: ../car-repair-addons/widgets/gallery.php:89
+#: ../widgets/smart-posts-grid-widget.php:43
+msgid "Descending"
+msgstr ""
+
+#: ../car-repair-addons/widgets/gallery.php:90
+#: ../widgets/smart-posts-grid-widget.php:44
+msgid "Ascending"
+msgstr ""
+
+#: ../car-repair-addons/widgets/gallery.php:165
+#: ../car-repair-addons/widgets/gallery.php:252 ../lib/sds_cpt_gallery.php:96
+#: ../shortcode/shortcode_gallery_block.php:21
+msgid "All"
+msgstr ""
+
+#: ../car-repair-addons/widgets/gallery.php:238
+#: ../car-repair-addons/widgets/gallery.php:319
+msgid "More Photos"
+msgstr ""
+
+#: ../car-repair-addons/widgets/home_page_coupns.php:19
+#: ../car-repair-addons/widgets/home_page_coupns.php:35
+msgid "Home Page Coupns"
+msgstr ""
+
+#: ../car-repair-addons/widgets/home_page_coupns.php:42
+msgid "Top Title"
+msgstr ""
+
+#: ../car-repair-addons/widgets/home_page_coupns.php:141
+msgid "See All Сoupons"
+msgstr ""
+
+#: ../car-repair-addons/widgets/how-it-works.php:29
+msgid "How It Work"
+msgstr ""
+
+#: ../car-repair-addons/widgets/how-it-works.php:77
+msgid "How It <span class=\"color\">Works</span>"
+msgstr ""
+
+#: ../car-repair-addons/widgets/how-it-works.php:85
+msgid "Subtitle "
+msgstr ""
+
+#: ../car-repair-addons/widgets/how-it-works.php:87
+msgid "These few steps will help you understand how our service works"
+msgstr ""
+
+#: ../car-repair-addons/widgets/how-it-works.php:99
+msgid "MAKE AN APPOINTMENT"
+msgstr ""
+
+#: ../car-repair-addons/widgets/how-it-works.php:106
+msgid "Item Class"
+msgstr ""
+
+#: ../car-repair-addons/widgets/how-it-works.php:113
+msgid "image"
+msgstr ""
+
+#: ../car-repair-addons/widgets/how-it-works.php:124
+msgid "Add Images for Gallery"
+msgstr ""
+
+#: ../car-repair-addons/widgets/icon-box.php:21
+msgid "Car Icon Box"
+msgstr ""
+
+#: ../car-repair-addons/widgets/icon-box.php:47
+#: ../car-repair-addons/widgets/icon_thumb_box.php:48
+msgid "100% Result Guarantee"
+msgstr ""
+
+#: ../car-repair-addons/widgets/icon-box.php:81
+msgid "Heading 1st line"
+msgstr ""
+
+#: ../car-repair-addons/widgets/icon-box.php:83
+msgid "All Car Makes"
+msgstr ""
+
+#: ../car-repair-addons/widgets/icon-box.php:89
+msgid ""
+"We provide a variety of repair and maintenance services for all car makes "
+"and models, even for exotic and vintage ones."
+msgstr ""
+
+#: ../car-repair-addons/widgets/icon_thumb_box.php:23
+msgid "Icon Thumb Box"
+msgstr ""
+
+#: ../car-repair-addons/widgets/icon_thumb_box.php:67
+msgid "One"
+msgstr ""
+
+#: ../car-repair-addons/widgets/icon_thumb_box.php:68
+msgid "Two"
+msgstr ""
+
+#: ../car-repair-addons/widgets/icon_thumb_box.php:94
+msgid "Appointments"
+msgstr ""
+
+#: ../car-repair-addons/widgets/icon_thumb_box.php:100
+msgid ""
+"Perform a search to find a store near you that accepts online appointment "
+"requests"
+msgstr ""
+
+#: ../car-repair-addons/widgets/icon_thumb_box.php:109
+msgid "Modal Element ID"
+msgstr ""
+
+#: ../car-repair-addons/widgets/icon_thumb_box.php:111
+msgid "#appointmentForm"
+msgstr ""
+
+#: ../car-repair-addons/widgets/our-advantage.php:19
+msgid "Our Advantage"
+msgstr ""
+
+#: ../car-repair-addons/widgets/our-advantage.php:62
+msgid "We Make It Easy"
+msgstr ""
+
+#: ../car-repair-addons/widgets/our-advantage.php:71
+msgid ""
+"Get a quote and book a service online 24/7. Our mechanics will come to your "
+"home or office, even on evenings and weekends."
+msgstr ""
+
+#: ../car-repair-addons/widgets/our-services.php:59
+msgid "Repair Services That <span class=\"color\">We Offer</span>"
+msgstr ""
+
+#: ../car-repair-addons/widgets/our-services.php:88
+msgid "Book an Appointment"
+msgstr ""
+
+#: ../car-repair-addons/widgets/our-services.php:97
+msgid "<strong>Using this field will disable the pop up form</strong>"
+msgstr ""
+
+#: ../car-repair-addons/widgets/our-services.php:98
+#: ../car-repair-addons/widgets/slickslider.php:118
+msgid "https://your-link.com"
+msgstr ""
+
+#: ../car-repair-addons/widgets/our-services.php:113
+msgid "bg-1"
+msgstr ""
+
+#: ../car-repair-addons/widgets/safety_recalls.php:16
+msgid "Safety Recalls"
+msgstr ""
+
+#: ../car-repair-addons/widgets/safety_recalls.php:42
+msgid "Safety <span class=\"color\">&amp;</span> Recalls"
+msgstr ""
+
+#: ../car-repair-addons/widgets/safety_recalls.php:51
+msgid "Are there any recalls on your car? Find out!"
+msgstr ""
+
+#: ../car-repair-addons/widgets/schedule_appointment.php:24
+msgid "Appointment Schedule"
+msgstr ""
+
+#: ../car-repair-addons/widgets/schedule_appointment.php:71
+msgid "Schedule <span class=\"color\">Your Appointment</span> Today"
+msgstr ""
+
+#: ../car-repair-addons/widgets/schedule_appointment.php:80
+msgid "Your Automotive Repair & Maintenance Service Specialist"
+msgstr ""
+
+#: ../car-repair-addons/widgets/schedule_appointment.php:87
+msgid "Call"
+msgstr ""
+
+#: ../car-repair-addons/widgets/schedule_appointment.php:89
+msgid "Call: 1-800-123-4567"
+msgstr ""
+
+#: ../car-repair-addons/widgets/schedule_appointment.php:105
+#: ../vc_element/vc_map_slickslider_2.php:155
+msgid "Button Type"
+msgstr ""
+
+#: ../car-repair-addons/widgets/schedule_appointment.php:128
+msgid "Button Modal Element Id"
+msgstr ""
+
+#: ../car-repair-addons/widgets/schedule_appointment.php:200
+msgid "Number Typography"
+msgstr ""
+
+#: ../car-repair-addons/widgets/service-gallery.php:24
+msgid "Service Gallery"
+msgstr ""
+
+#: ../car-repair-addons/widgets/service-gallery.php:49
+msgid "Our Service <span class=\"color\">Gallery</span>"
+msgstr ""
+
+#: ../car-repair-addons/widgets/service-gallery.php:58
+msgid ""
+"These photos will help you learn more about our car service and services "
+"provided"
+msgstr ""
+
+#: ../car-repair-addons/widgets/service-modal.php:34
+msgid "Left Content"
+msgstr ""
+
+#: ../car-repair-addons/widgets/service-modal.php:62
+msgid "Appointment"
+msgstr ""
+
+#: ../car-repair-addons/widgets/service-modal.php:81
+msgid "Pricing"
+msgstr ""
+
+#: ../car-repair-addons/widgets/service-modal.php:89
+msgid "Service Name"
+msgstr ""
+
+#: ../car-repair-addons/widgets/service-modal.php:111
+msgid "Engine Complete 6-cylinder"
+msgstr ""
+
+#: ../car-repair-addons/widgets/services.php:46
+#: ../vc_element/vc_map_services.php:10
+msgid "Posts Per Tab"
+msgstr ""
+
+#: ../car-repair-addons/widgets/services.php:55
+#: ../vc_element/vc_map_coupns.php:10 ../vc_element/vc_map_services.php:16
+#: ../vc_element/vc_map_testimonials.php:23
+msgid "Posts Per Page"
+msgstr ""
+
+#: ../car-repair-addons/widgets/services.php:68
+msgid "Yes"
+msgstr ""
+
+#: ../car-repair-addons/widgets/services.php:69
+msgid "No"
+msgstr ""
+
+#: ../car-repair-addons/widgets/services.php:77
+msgid "Html Tag"
+msgstr ""
+
+#: ../car-repair-addons/widgets/services.php:80
+msgid "H1"
+msgstr ""
+
+#: ../car-repair-addons/widgets/services.php:81
+msgid "H2"
+msgstr ""
+
+#: ../car-repair-addons/widgets/services.php:82
+msgid "H3"
+msgstr ""
+
+#: ../car-repair-addons/widgets/services.php:83
+msgid "H4"
+msgstr ""
+
+#: ../car-repair-addons/widgets/services.php:84
+msgid "H5"
+msgstr ""
+
+#: ../car-repair-addons/widgets/services.php:85
+msgid "H6"
+msgstr ""
+
+#: ../car-repair-addons/widgets/services.php:86
+msgid "div"
+msgstr ""
+
+#: ../car-repair-addons/widgets/services.php:87
+msgid "span"
+msgstr ""
+
+#: ../car-repair-addons/widgets/services.php:88
+msgid "p"
+msgstr ""
+
+#: ../car-repair-addons/widgets/slickslider.php:21
+#: ../car-repair-addons/widgets/slider-two.php:19
+msgid "Slick Slider"
+msgstr ""
+
+#: ../car-repair-addons/widgets/slickslider.php:60
+#: ../car-repair-addons/widgets/slickslider.php:131
+#: ../car-repair-addons/widgets/slider-two.php:70
+#: ../car-repair-addons/widgets/slider-two.php:108
+#: ../vc_element/vc_map_slickslider.php:118
+#: ../vc_element/vc_map_slickslider_2.php:127
+msgid "Text Position"
+msgstr ""
+
+#: ../car-repair-addons/widgets/slickslider.php:64
+#: ../car-repair-addons/widgets/slider-two.php:74
+msgid "Center"
+msgstr ""
+
+#: ../car-repair-addons/widgets/slickslider.php:65
+#: ../car-repair-addons/widgets/slider-two.php:75
+msgid "Left"
+msgstr ""
+
+#: ../car-repair-addons/widgets/slickslider.php:66
+#: ../car-repair-addons/widgets/slider-two.php:76
+msgid "Right"
+msgstr ""
+
+#: ../car-repair-addons/widgets/slickslider.php:73
+msgid "heading"
+msgstr ""
+
+#: ../car-repair-addons/widgets/slickslider.php:87
+#: ../car-repair-addons/widgets/slider-two.php:95
+msgid "Sub Heading Second"
+msgstr ""
+
+#: ../car-repair-addons/widgets/slickslider.php:94
+#: ../car-repair-addons/widgets/slider-two.php:101
+#: ../car-repair-addons/widgets/team_carousel.php:142
+#: ../vc_element/vc_map_team.php:206
+msgid "Short Description"
+msgstr ""
+
+#: ../car-repair-addons/widgets/slickslider.php:109
+msgid "Details"
+msgstr ""
+
+#: ../car-repair-addons/widgets/slickslider.php:137
+#: ../car-repair-addons/widgets/slider-two.php:114
+msgid "Style 3"
+msgstr ""
+
+#: ../car-repair-addons/widgets/slickslider.php:144
+msgid "Repeater List"
+msgstr ""
+
+#: ../car-repair-addons/widgets/slickslider.php:149
+msgid "Title #1"
+msgstr ""
+
+#: ../car-repair-addons/widgets/slickslider.php:150
+#: ../car-repair-addons/widgets/slickslider.php:154
+msgid "Item content. Click the edit button to change this text."
+msgstr ""
+
+#: ../car-repair-addons/widgets/slickslider.php:153
+msgid "Title #2"
+msgstr ""
+
+#: ../car-repair-addons/widgets/slickslider.php:163
+msgid "Show Arrow Bottom"
+msgstr ""
+
+#: ../car-repair-addons/widgets/slickslider.php:165
+msgid "Show"
+msgstr ""
+
+#: ../car-repair-addons/widgets/slickslider.php:166
+msgid "Hide"
+msgstr ""
+
+#: ../car-repair-addons/widgets/slickslider.php:175
+#: ../car-repair-addons/widgets/slider-two.php:127
+#: ../car-repair-addons/widgets/testimonials.php:120
+#: ../vc_element/vc_map_icon_box.php:16 ../vc_element/vc_map_icon_box.php:27
+#: ../vc_element/vc_map_icon_box.php:38 ../vc_element/vc_map_icon_box.php:49
+#: ../vc_element/vc_map_icon_box.php:60
+#: ../vc_element/vc_map_service_banner.php:117
+#: ../vc_element/vc_map_service_banner.php:128
+#: ../vc_element/vc_map_service_banner.php:139
+#: ../vc_element/vc_map_service_banner.php:150
+#: ../vc_element/vc_map_service_banner.php:161
+#: ../vc_element/vc_map_slickslider.php:20
+#: ../vc_element/vc_map_slickslider.php:27
+#: ../vc_element/vc_map_slickslider.php:38
+#: ../vc_element/vc_map_slickslider.php:49
+#: ../vc_element/vc_map_slickslider.php:60
+#: ../vc_element/vc_map_slickslider.php:67
+#: ../vc_element/vc_map_slickslider.php:78
+#: ../vc_element/vc_map_slickslider.php:89
+#: ../vc_element/vc_map_slickslider.php:97
+#: ../vc_element/vc_map_slickslider_2.php:30
+#: ../vc_element/vc_map_slickslider_2.php:37
+#: ../vc_element/vc_map_slickslider_2.php:48
+#: ../vc_element/vc_map_slickslider_2.php:59
+#: ../vc_element/vc_map_slickslider_2.php:70
+#: ../vc_element/vc_map_slickslider_2.php:77
+#: ../vc_element/vc_map_slickslider_2.php:88
+#: ../vc_element/vc_map_slickslider_2.php:99
+#: ../vc_element/vc_map_slickslider_2.php:106 ../vc_element/vc_map_team.php:44
+#: ../vc_element/vc_map_team.php:56 ../vc_element/vc_map_team.php:67
+#: ../vc_element/vc_map_team.php:78 ../vc_element/vc_map_team.php:85
+#: ../vc_element/vc_map_team.php:96 ../vc_element/vc_map_team.php:107
+#: ../vc_element/vc_map_team.php:114 ../vc_element/vc_map_team.php:125
+#: ../vc_element/vc_map_team.php:136 ../vc_element/vc_map_team.php:147
+#: ../vc_element/vc_map_team.php:154 ../vc_element/vc_map_team.php:165
+#: ../vc_element/vc_map_team.php:176 ../vc_element/vc_map_testimonials.php:31
+#: ../vc_element/vc_map_testimonials.php:42
+#: ../vc_element/vc_map_testimonials.php:53
+#: ../vc_element/vc_map_testimonials.php:64
+#: ../vc_element/vc_map_testimonials.php:71
+#: ../vc_element/vc_map_testimonials.php:82
+#: ../vc_element/vc_map_testimonials.php:93
+#: ../vc_element/vc_map_testimonials.php:104
+msgid "Slider Settings"
+msgstr ""
+
+#: ../car-repair-addons/widgets/slickslider.php:222
+#: ../car-repair-addons/widgets/slickslider.php:223
+#: ../car-repair-addons/widgets/slider-two.php:174
+#: ../car-repair-addons/widgets/slider-two.php:175
+#: ../car-repair-addons/widgets/testimonials.php:197
+#: ../car-repair-addons/widgets/testimonials.php:198
+#: ../vc_element/vc_map_slickslider.php:54
+#: ../vc_element/vc_map_slickslider_2.php:64
+#: ../vc_element/vc_map_testimonials.php:98
+msgid "Enable Fading?"
+msgstr ""
+
+#: ../car-repair-addons/widgets/slickslider.php:232
+#: ../car-repair-addons/widgets/slickslider.php:233
+#: ../car-repair-addons/widgets/slider-two.php:184
+#: ../car-repair-addons/widgets/slider-two.php:185
+msgid "Pause on hover?"
+msgstr ""
+
+#: ../car-repair-addons/widgets/slickslider.php:242
+#: ../car-repair-addons/widgets/slickslider.php:243
+#: ../car-repair-addons/widgets/slider-two.php:194
+#: ../car-repair-addons/widgets/slider-two.php:195
+msgid "Pause on dots hover?"
+msgstr ""
+
+#: ../car-repair-addons/widgets/slickslider.php:289
+msgid "Typography"
+msgstr ""
+
+#: ../car-repair-addons/widgets/slider-two.php:62
+#: ../vc_element/vc_map_slickslider.php:113
+#: ../vc_element/vc_map_slickslider_2.php:122
+msgid "Slider Image"
+msgstr ""
+
+#: ../car-repair-addons/widgets/slider-two.php:84
+msgid "Looking for Right Vehicle"
+msgstr ""
+
+#: ../car-repair-addons/widgets/slider-two.php:91
+msgid "Repair Service?"
+msgstr ""
+
+#: ../car-repair-addons/widgets/slider-two.php:104
+msgid "Get your fair-price repair estimates"
+msgstr ""
+
+#: ../car-repair-addons/widgets/team_carousel.php:23
+msgid "Team Carousel"
+msgstr ""
+
+#: ../car-repair-addons/widgets/team_carousel.php:39
+msgid "General Settings"
+msgstr ""
+
+#: ../car-repair-addons/widgets/team_carousel.php:48
+msgid "Our <span class=\"color\">Team</span>"
+msgstr ""
+
+#: ../car-repair-addons/widgets/team_carousel.php:58
+msgid "Meet Our Specialists from Car Repair Service"
+msgstr ""
+
+#: ../car-repair-addons/widgets/team_carousel.php:65
+msgid "Content for the horizontal style"
+msgstr ""
+
+#: ../car-repair-addons/widgets/team_carousel.php:68
+msgid ""
+"Our team specializes in many different types of vehicles, and since they "
+"work on a wider variety of vehicles than their dealer counterparts, their "
+"overall expertise is greater, too. By working on many makes and models, our "
+"technicians can be trusted to properly diagnose challenging repairs and "
+"other issues. As automotive technology advances, our team is continually "
+"updating their education & skills."
+msgstr ""
+
+#: ../car-repair-addons/widgets/team_carousel.php:78
+msgid "Meet the Team"
+msgstr ""
+
+#: ../car-repair-addons/widgets/team_carousel.php:85
+msgid "Column no"
+msgstr ""
+
+#: ../car-repair-addons/widgets/team_carousel.php:89
+msgid "2 Column"
+msgstr ""
+
+#: ../car-repair-addons/widgets/team_carousel.php:90
+msgid "3 Column"
+msgstr ""
+
+#: ../car-repair-addons/widgets/team_carousel.php:91
+msgid "4 Column"
+msgstr ""
+
+#: ../car-repair-addons/widgets/team_carousel.php:103
+msgid "Vertical"
+msgstr ""
+
+#: ../car-repair-addons/widgets/team_carousel.php:104
+msgid "Horizontal"
+msgstr ""
+
+#: ../car-repair-addons/widgets/team_carousel.php:130
+#: ../vc_element/vc_map_team.php:194
+msgid "Name Of Team Member"
+msgstr ""
+
+#: ../car-repair-addons/widgets/team_carousel.php:132
+msgid "Robert J. Piedra"
+msgstr ""
+
+#: ../car-repair-addons/widgets/team_carousel.php:136
+#: ../vc_element/vc_map_team.php:200
+msgid "Designation of Team Member"
+msgstr ""
+
+#: ../car-repair-addons/widgets/team_carousel.php:138
+msgid "Service Advisor"
+msgstr ""
+
+#: ../car-repair-addons/widgets/team_carousel.php:144
+msgid ""
+"ASE Certified Master Technician, Lincoln Technical Institute 1992, Jason "
+"with his 25 years of automotive experience joined our team in June 2015"
+msgstr ""
+
+#: ../car-repair-addons/widgets/team_carousel.php:148
+#: ../vc_element/vc_map_team.php:212
+msgid "Facebook"
+msgstr ""
+
+#: ../car-repair-addons/widgets/team_carousel.php:153
+#: ../vc_element/vc_map_team.php:218
+msgid "Twitter"
+msgstr ""
+
+#: ../car-repair-addons/widgets/team_carousel.php:158
+#: ../vc_element/vc_map_team.php:224
+msgid "Instagram"
+msgstr ""
+
+#: ../car-repair-addons/widgets/team_carousel.php:163
+#: ../vc_element/vc_map_team.php:230
+msgid "Picture Of Team Member"
+msgstr ""
+
+#: ../car-repair-addons/widgets/testimonials-1.php:23
+msgid "Testimonial Two"
+msgstr ""
+
+#: ../car-repair-addons/widgets/testimonials-1.php:39
+#: ../car-repair-addons/widgets/testimonials.php:26
+#: ../car-repair-addons/widgets/testimonials.php:42
+#: ../car-repair-addons/widgets/testimonials.php:70
+#: ../post_type/custom-post-testimonial.php:7
+#: ../post_type/custom-post-testimonial.php:8
+msgid "Testimonial"
+msgstr ""
+
+#: ../car-repair-addons/widgets/testimonials-1.php:47
+msgid "Customer Reviews"
+msgstr ""
+
+#: ../car-repair-addons/widgets/testimonials-1.php:54
+#: ../car-repair-addons/widgets/testimonials.php:89
+msgid "Per Page"
+msgstr ""
+
+#: ../car-repair-addons/widgets/testimonials.php:52
+msgid "What <span class=\"color\">Our Clients</span> Say"
+msgstr ""
+
+#: ../car-repair-addons/widgets/testimonials.php:61
+msgid "Here's what our customers have to say about Car Repair Service"
+msgstr ""
+
+#: ../car-repair-addons/widgets/testimonials.php:80
+msgid "Slider"
+msgstr ""
+
+#: ../car-repair-addons/widgets/testimonials.php:81
+msgid "Grid"
+msgstr ""
+
+#: ../car-repair-addons/widgets/testimonials.php:105
+msgid "Bg Select"
+msgstr ""
+
+#: ../car-repair-addons/widgets/testimonials.php:109
+msgid "Dark"
+msgstr ""
+
+#: ../car-repair-addons/widgets/testimonials.php:110
+msgid "Light"
+msgstr ""
+
+#: ../car-repair-addons/widgets/testimonials.php:147
+#: ../car-repair-addons/widgets/testimonials.php:148
+msgid "Infinite Loop"
+msgstr ""
+
+#: ../car-repair-addons/widgets/testimonials.php:457
+#: ../shortcode/shortcode_testimonials.php:121
+msgid "More Testimonials"
+msgstr ""
+
+#: ../car-repair-services-core.php:283
+msgid "Icon library"
+msgstr ""
+
+#: ../car-repair-services-core.php:285
+msgid "Car Repair Services Icon"
+msgstr ""
+
+#: ../car-repair-services-core.php:286
+msgid "Font Awesome"
+msgstr ""
+
+#: ../car-repair-services-core.php:287
+msgid "Open Iconic"
+msgstr ""
+
+#: ../car-repair-services-core.php:288
+msgid "Typicons"
+msgstr ""
+
+#: ../car-repair-services-core.php:289
+msgid "Entypo"
+msgstr ""
+
+#: ../car-repair-services-core.php:290
+msgid "Linecons"
+msgstr ""
+
+#: ../car-repair-services-core.php:291
+msgid "Mono Social"
+msgstr ""
+
+#: ../car-repair-services-core.php:294
+msgid "Select icon library."
+msgstr ""
+
+#: ../car-repair-services-core.php:311 ../car-repair-services-core.php:328
+#: ../car-repair-services-core.php:345 ../car-repair-services-core.php:378
+#: ../car-repair-services-core.php:397 ../car-repair-services-core.php:416
+msgid "Select icon from library."
+msgstr ""
+
+#: ../color_schema.php:58
+msgid "Color scheme"
+msgstr ""
+
+#: ../color_schema/blue.php:4
+msgid "Blue"
+msgstr ""
+
+#: ../color_schema/green.php:4
+msgid "Green"
+msgstr ""
+
+#: ../color_schema/orange.php:4
+msgid "Orange"
+msgstr ""
+
+#: ../color_schema/red.php:4
+msgid "Red"
+msgstr ""
+
+#: ../color_schema/turquoise.php:4
+msgid "Turquoise"
+msgstr ""
+
+#: ../color_schema/violet.php:4
+msgid "Violet"
+msgstr ""
+
+#: ../lib/config.meta.box.php:36 ../lib/config.meta.box.php:67
+#: ../lib/config.meta.box.php:88 ../lib/config.meta.box.php:109
+#: ../lib/config.meta.box.php:134
+msgid "Post Format Data"
+msgstr ""
+
+#: ../lib/config.meta.box.php:45
+msgid "Quote Author"
+msgstr ""
+
+#: ../lib/config.meta.box.php:46
+msgid "Insert quote author name."
+msgstr ""
+
+#: ../lib/config.meta.box.php:51
+msgid "Quote Author Url"
+msgstr ""
+
+#: ../lib/config.meta.box.php:52
+msgid "Insert author url."
+msgstr ""
+
+#: ../lib/config.meta.box.php:57
+msgid "Quote Text"
+msgstr ""
+
+#: ../lib/config.meta.box.php:58
+msgid "Insert Quote Text."
+msgstr ""
+
+#: ../lib/config.meta.box.php:76
+msgid "Video Markup"
+msgstr ""
+
+#: ../lib/config.meta.box.php:77 ../lib/config.meta.box.php:98
+msgid "Put embed src of video. i.e. youtube, vimeo"
+msgstr ""
+
+#: ../lib/config.meta.box.php:97
+msgid "Audio Markup"
+msgstr ""
+
+#: ../lib/config.meta.box.php:119 ../lib/config.meta.box.php:125
+msgid "Works with link post format."
+msgstr ""
+
+#: ../lib/config.meta.box.php:124
+msgid "Link title"
+msgstr ""
+
+#: ../lib/config.meta.box.php:143
+msgid "Upload Gallery Images"
+msgstr ""
+
+#: ../lib/config.meta.box.php:154
+msgid "Manage Gallery Meta Fields"
+msgstr ""
+
+#: ../lib/config.meta.box.php:163
+msgid "Upload Gallery Image"
+msgstr ""
+
+#: ../lib/config.meta.box.php:170
+msgid "Compare Before Gallery Image"
+msgstr ""
+
+#: ../lib/config.meta.box.php:177
+msgid "Compare After Gallery Image"
+msgstr ""
+
+#: ../lib/config.meta.box.php:188
+msgid "Manage Testimonial Meta Fields"
+msgstr ""
+
+#: ../lib/config.meta.box.php:197
+msgid "Customer Name"
+msgstr ""
+
+#: ../lib/config.meta.box.php:198
+msgid "Customer Name."
+msgstr ""
+
+#: ../lib/config.meta.box.php:203
+msgid "Customer Designation"
+msgstr ""
+
+#: ../lib/config.meta.box.php:204
+msgid "Customer Designation."
+msgstr ""
+
+#: ../lib/config.meta.box.php:209 ../lib/config.meta.box.php:210
+msgid "User Location"
+msgstr ""
+
+#: ../lib/config.meta.box.php:215
+msgid "Customer Ratting"
+msgstr ""
+
+#: ../lib/config.meta.box.php:216
+msgid "Enter Customer Ratting"
+msgstr ""
+
+#: ../lib/config.meta.box.php:229
+msgid "Rating Style"
+msgstr ""
+
+#: ../lib/config.meta.box.php:237
+msgid "Select"
+msgstr ""
+
+#: ../lib/config.meta.box.php:240
+msgid "Testimonials Image"
+msgstr ""
+
+#: ../lib/config.meta.box.php:252
+msgid "Manage Car Services Meta Fields"
+msgstr ""
+
+#: ../lib/config.meta.box.php:262
+msgid "Service Icon. Click Here for <a href=\""
+msgstr ""
+
+#: ../lib/config.meta.box.php:267
+msgid "Service Single Image"
+msgstr ""
+
+#: ../lib/config.meta.box.php:274
+msgid "Custom Icon Image"
+msgstr ""
+
+#: ../lib/config.meta.box.php:281
+msgid "Custom Icon Link"
+msgstr ""
+
+#: ../lib/config.meta.box.php:282
+msgid "Add css Link for custom Icon"
+msgstr ""
+
+#: ../lib/config.meta.box.php:287
+msgid "Page Heading"
+msgstr ""
+
+#: ../lib/config.meta.box.php:288
+msgid "Heading of Page."
+msgstr ""
+
+#: ../lib/config.meta.box.php:294
+msgid "Sub Heading of Page."
+msgstr ""
+
+#: ../lib/config.meta.box.php:303
+msgid "Our Coupons Meta Fields"
+msgstr ""
+
+#: ../lib/config.meta.box.php:312 ../lib/config.meta.box.php:313
+msgid "Coupon Top Left"
+msgstr ""
+
+#: ../lib/config.meta.box.php:318 ../lib/config.meta.box.php:319
+msgid "Coupon Top Right"
+msgstr ""
+
+#: ../lib/config.meta.box.php:324 ../lib/config.meta.box.php:325
+msgid "Coupon Bottom Left"
+msgstr ""
+
+#: ../lib/config.meta.box.php:330 ../lib/config.meta.box.php:331
+msgid "Coupon Bottom Right"
+msgstr ""
+
+#: ../lib/config.meta.box.php:342
+msgid "Select Thumbnail size for gallery"
+msgstr ""
+
+#: ../lib/config.meta.box.php:351
+msgid "Amount"
+msgstr ""
+
+#: ../lib/config.meta.box.php:356
+msgid "Time duration ( Day or weeks or month )"
+msgstr ""
+
+#: ../lib/config.meta.box.php:361
+msgid "Select Thumbanail size"
+msgstr ""
+
+#: ../lib/config.meta.box.php:381
+msgid "Page Design Settings"
+msgstr ""
+
+#: ../lib/config.meta.box.php:390
+msgid "Page Title Style"
+msgstr ""
+
+#: ../lib/config.meta.box.php:401
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:8 ../post_type/custom-post-testimonial.php:9
+msgid "Add New"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:9
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:10
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:11
+msgid "New Gallery"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:12
+msgid "View Gallery"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:13
+msgid "Search Gallery"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:14
+msgid "No Gallery found"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:15
+msgid "No Gallery found in Trash"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:32
+msgid "gallery"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:37
+msgctxt "portfolio categories"
+msgid "Gallery Categories"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:38
+msgctxt "portfolio category"
+msgid "Gallery Category"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:39
+msgid "Search Gallery Categories"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:40
+msgid "All Gallery Categories"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:41
+msgid "Parent Gallery Category"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:42
+msgid "Parent Gallery Category:"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:43
+msgid "Edit Gallery Category"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:44
+msgid "Update Gallery Category"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:45
+msgid "Add New Gallery Category"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:46
+msgid "New Gallery Category Name"
+msgstr ""
+
+#: ../lib/sds_cpt_gallery.php:47
+msgid "Gallery Category"
+msgstr ""
+
+#: ../lib/sidebar_generator.php:183
+msgid "Sidebar Generator"
+msgstr ""
+
+#: ../lib/sidebar_generator.php:184
+msgid ""
+"The sidebar name is for your use only. It will not be visible to any of your "
+"visitors. A CSS class is assigned to each of your sidebar, use this styling "
+"to customize the sidebars."
+msgstr ""
+
+#: ../lib/sidebar_generator.php:187
+msgid "+ Add Sidebar"
+msgstr ""
+
+#: ../lib/sidebar_generator.php:193
+msgid "CSS class"
+msgstr ""
+
+#: ../lib/sidebar_generator.php:194
+msgid "Remove"
+msgstr ""
+
+#: ../lib/sidebar_generator.php:207
+msgid "Remove this sidebar"
+msgstr ""
+
+#: ../lib/sidebar_generator.php:207
+msgid "remove"
+msgstr ""
+
+#: ../lib/sidebar_generator.php:215
+msgid "No Sidebars defined"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:15
+msgctxt "Post Type General Name"
+msgid "Coupons"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:16
+msgctxt "Post Type Singular Name"
+msgid "Coupon"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:17
+msgid "Coupons"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:19
+#: ../post_type/custom-post-services.php:10
+msgid "Item Archives"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:20
+#: ../post_type/custom-post-services.php:11
+msgid "Parent Item:"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:21
+msgid "All Coupons"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:22
+#: ../post_type/custom-post-our-coupns.php:23
+msgid "Add New Coupon"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:24
+#: ../post_type/custom-post-services.php:15
+msgid "New Service Item"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:25
+msgid "Edit Coupon Item"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:26
+msgid "Update Coupon Item"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:27
+msgid "View Coupon Item"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:28
+#: ../post_type/custom-post-services.php:19
+msgid "Search Item"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:29
+#: ../post_type/custom-post-services.php:20
+msgid "Not found"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:30
+#: ../post_type/custom-post-services.php:21
+msgid "Not found in Trash"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:31
+#: ../post_type/custom-post-services.php:22
+msgid "Featured Image"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:32
+#: ../post_type/custom-post-services.php:23
+msgid "Set featured image"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:33
+#: ../post_type/custom-post-services.php:24
+msgid "Remove featured image"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:34
+#: ../post_type/custom-post-services.php:25
+msgid "Use as featured image"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:35
+#: ../post_type/custom-post-services.php:26
+msgid "Insert into item"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:36
+#: ../post_type/custom-post-services.php:27
+msgid "Uploaded to this item"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:37
+#: ../post_type/custom-post-services.php:28
+msgid "Items list"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:38
+#: ../post_type/custom-post-services.php:29
+msgid "Items list navigation"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:39
+#: ../post_type/custom-post-services.php:30
+msgid "Filter items list"
+msgstr ""
+
+#: ../post_type/custom-post-our-coupns.php:44
+#: ../post_type/custom-post-services.php:43
+msgid "Description."
+msgstr ""
+
+#: ../post_type/custom-post-service-template.php:31
+#: ../post_type/custom-post-service-template.php:32
+#: ../post_type/custom-post-service-template.php:33
+msgid "Services Template"
+msgstr ""
+
+#: ../post_type/custom-post-service-template.php:81
+msgctxt "iconic-advanced-layered-nav"
+msgid "Add New"
+msgstr ""
+
+#: ../post_type/custom-post-service-template.php:129
+msgid "Item Id"
+msgstr ""
+
+#: ../post_type/custom-post-service-template.php:130
+msgid "Sale"
+msgstr ""
+
+#: ../post_type/custom-post-service-template.php:131
+msgid "Activated"
+msgstr ""
+
+#: ../post_type/custom-post-service-template.php:132
+msgid "In Activated"
+msgstr ""
+
+#: ../post_type/custom-post-services.php:6
+msgctxt "Post Type General Name"
+msgid "Services"
+msgstr ""
+
+#: ../post_type/custom-post-services.php:7
+msgctxt "Post Type Singular Name"
+msgid "Service"
+msgstr ""
+
+#: ../post_type/custom-post-services.php:12
+msgid "All Services"
+msgstr ""
+
+#: ../post_type/custom-post-services.php:13
+#: ../post_type/custom-post-services.php:14
+msgid "Add New Service"
+msgstr ""
+
+#: ../post_type/custom-post-services.php:16
+msgid "Edit Service Item"
+msgstr ""
+
+#: ../post_type/custom-post-services.php:17
+msgid "Update Service Item"
+msgstr ""
+
+#: ../post_type/custom-post-services.php:18
+msgid "View Service Item"
+msgstr ""
+
+#: ../post_type/custom-post-testimonial.php:10
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../post_type/custom-post-testimonial.php:11
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../post_type/custom-post-testimonial.php:12
+msgid "New Testimonial"
+msgstr ""
+
+#: ../post_type/custom-post-testimonial.php:13
+msgid "View Testimonial"
+msgstr ""
+
+#: ../post_type/custom-post-testimonial.php:14
+msgid "Search Testimonial"
+msgstr ""
+
+#: ../post_type/custom-post-testimonial.php:15
+msgid "No Testimonial found"
+msgstr ""
+
+#: ../post_type/custom-post-testimonial.php:16
+msgid "No Testimonial found in Trash"
+msgstr ""
+
+#: ../post_type/custom-post-testimonial.php:30
+msgid "testimonial"
+msgstr ""
+
+#: ../share/social-share.php:6
+msgid "Share:"
+msgstr ""
+
+#: ../shortcode/shortcode_estimator_form.php:21
+msgid "CLICK"
+msgstr ""
+
+#: ../vc_element/vc_map_ brands.php:30
+msgid "Button Close Text"
+msgstr ""
+
+#: ../vc_element/vc_map_ brands.php:36
+msgid "Button Open Text"
+msgstr ""
+
+#: ../vc_element/vc_map_ brands.php:44
+msgid "Brands Item"
+msgstr ""
+
+#: ../vc_element/vc_map_action_button.php:20
+msgid "Action Button For Pop Up Or Modal"
+msgstr ""
+
+#: ../vc_element/vc_map_action_button.php:58
+#: ../vc_element/vc_map_banner_free.php:66
+#: ../vc_element/vc_map_estimator_form.php:51
+#: ../vc_element/vc_map_icon_box.php:130
+msgid "Choose previously created contact form from the drop down list."
+msgstr ""
+
+#: ../vc_element/vc_map_banner_free.php:13
+msgid "Banner Free"
+msgstr ""
+
+#: ../vc_element/vc_map_banner_free.php:14
+msgid "Winter & Summer Checks"
+msgstr ""
+
+#: ../vc_element/vc_map_banner_free.php:24
+#: ../vc_element/vc_map_services_banner_2.php:13
+msgid "Banner Image"
+msgstr ""
+
+#: ../vc_element/vc_map_banner_under_slider.php:5
+#: ../vc_element/vc_map_trust_products.php:5
+msgid "The banner for all services page to represent Trust Our Products"
+msgstr ""
+
+#: ../vc_element/vc_map_banner_under_slider.php:20
+msgid "Title2"
+msgstr ""
+
+#: ../vc_element/vc_map_banner_under_slider.php:27
+msgid "Key Image"
+msgstr ""
+
+#: ../vc_element/vc_map_banner_under_slider.php:30
+#: ../vc_element/vc_map_service_banner.php:61
+#: ../vc_element/vc_map_trust_products.php:22
+msgid "Select image from media library."
+msgstr ""
+
+#: ../vc_element/vc_map_banner_under_slider.php:51
+msgid ""
+"<p>We realize that you lead a busy life, so we've made it easy for you to "
+"drop off your vehicle 24/7.</p>"
+msgstr ""
+
+#: ../vc_element/vc_map_banner_under_slider.php:52
+#: ../vc_element/vc_map_trust_products.php:38
+msgid "Enter your content."
+msgstr ""
+
+#: ../vc_element/vc_map_blog.php:11
+msgid "Select post loop"
+msgstr ""
+
+#: ../vc_element/vc_map_estimator_form.php:16
+msgid "Estimator Form For Pop Up Or Modal"
+msgstr ""
+
+#: ../vc_element/vc_map_estimator_form.php:47
+msgid "Select contact form for Form Id"
+msgstr ""
+
+#: ../vc_element/vc_map_faqs.php:3
+msgid "Faqs"
+msgstr ""
+
+#: ../vc_element/vc_map_faqs.php:4 ../vc_element/vc_map_faqs.php:25
+msgid "Frequently Asked Question"
+msgstr ""
+
+#: ../vc_element/vc_map_faqs.php:24
+msgid "Faqs Item"
+msgstr ""
+
+#: ../vc_element/vc_map_faqs.php:44
+msgid "Answer"
+msgstr ""
+
+#: ../vc_element/vc_map_faqs.php:52
+msgid "FAQ Open"
+msgstr ""
+
+#: ../vc_element/vc_map_featured_sevices.php:4
+msgid "Featured Services Tabs"
+msgstr ""
+
+#: ../vc_element/vc_map_featured_sevices.php:37
+msgid "Know More"
+msgstr ""
+
+#: ../vc_element/vc_map_featured_sevices.php:56
+msgid "Service Icon Class"
+msgstr ""
+
+#: ../vc_element/vc_map_featured_sevices.php:64
+msgid "Service Icon Image"
+msgstr ""
+
+#: ../vc_element/vc_map_featured_sevices.php:72
+msgid "Service Title"
+msgstr ""
+
+#: ../vc_element/vc_map_featured_sevices.php:80
+msgid "Service Text"
+msgstr ""
+
+#: ../vc_element/vc_map_featured_sevices2.php:3
+#: ../vc_element/vc_map_featured_sevices2.php:4
+msgid "Featured Services 2"
+msgstr ""
+
+#: ../vc_element/vc_map_featured_sevices2.php:40
+msgid "Featured Services2 Item"
+msgstr ""
+
+#: ../vc_element/vc_map_featured_sevices2.php:41
+msgid "Featured Services2 Item "
+msgstr ""
+
+#: ../vc_element/vc_map_gallery.php:3
+msgid "Gallary"
+msgstr ""
+
+#: ../vc_element/vc_map_gallery.php:14
+msgid "Set how many gallary image will display."
+msgstr ""
+
+#: ../vc_element/vc_map_gallery.php:29 ../vc_element/vc_map_services.php:33
+msgid "Select order type."
+msgstr ""
+
+#: ../vc_element/vc_map_gallery.php:37 ../vc_element/vc_map_services.php:41
+msgid "Select sorting order."
+msgstr ""
+
+#: ../vc_element/vc_map_home_page_coupon.php:3
+msgid "Home Page Coupon"
+msgstr ""
+
+#: ../vc_element/vc_map_home_page_coupon.php:14
+msgid "Content Text area"
+msgstr ""
+
+#: ../vc_element/vc_map_home_page_coupon.php:16
+msgid "Coupons from ..."
+msgstr ""
+
+#: ../vc_element/vc_map_home_page_coupon.php:17
+msgid "Description for content param."
+msgstr ""
+
+#: ../vc_element/vc_map_home_page_coupon.php:26
+msgid "Left Title"
+msgstr ""
+
+#: ../vc_element/vc_map_home_page_coupon.php:54
+msgid "Left Footer"
+msgstr ""
+
+#: ../vc_element/vc_map_home_page_coupon.php:66
+msgid "Our Latest Specials"
+msgstr ""
+
+#: ../vc_element/vc_map_home_page_coupon.php:67
+msgid "Description for title param."
+msgstr ""
+
+#: ../vc_element/vc_map_home_page_coupon.php:76
+msgid "Any Servcie of $250 or More"
+msgstr ""
+
+#: ../vc_element/vc_map_home_page_coupon.php:77
+msgid "Description for sub title param."
+msgstr ""
+
+#: ../vc_element/vc_map_home_page_coupon.php:85
+msgid "SEE ALL COUPONS"
+msgstr ""
+
+#: ../vc_element/vc_map_home_page_coupon.php:86
+msgid "Description for button param."
+msgstr ""
+
+#: ../vc_element/vc_map_home_page_coupon.php:94
+msgid "http://"
+msgstr ""
+
+#: ../vc_element/vc_map_home_page_coupon.php:95
+msgid "Description for link param."
+msgstr ""
+
+#: ../vc_element/vc_map_how_it_works.php:3
+msgid "How it Works"
+msgstr ""
+
+#: ../vc_element/vc_map_how_it_works.php:4
+#: ../vc_element/vc_map_how_it_works.php:50
+msgid "How It Works"
+msgstr ""
+
+#: ../vc_element/vc_map_how_it_works.php:31
+msgid "Show Item In Row Mobile"
+msgstr ""
+
+#: ../vc_element/vc_map_how_it_works.php:49
+msgid "How it Works Item"
+msgstr ""
+
+#: ../vc_element/vc_map_how_it_works.php:69
+msgid "Number"
+msgstr ""
+
+#: ../vc_element/vc_map_how_it_works.php:77
+msgid "content"
+msgstr ""
+
+#: ../vc_element/vc_map_icon_box.php:21
+#: ../vc_element/vc_map_service_banner.php:111 ../vc_element/vc_map_team.php:50
+#: ../vc_element/vc_map_team.php:119 ../vc_element/vc_map_testimonials.php:36
+msgid "Do the Slides scroll?"
+msgstr ""
+
+#: ../vc_element/vc_map_icon_box.php:32
+#: ../vc_element/vc_map_service_banner.php:122 ../vc_element/vc_map_team.php:61
+#: ../vc_element/vc_map_team.php:130 ../vc_element/vc_map_testimonials.php:47
+msgid "Is infinite?"
+msgstr ""
+
+#: ../vc_element/vc_map_icon_box.php:65
+msgid "Icon Thumb box extra class"
+msgstr ""
+
+#: ../vc_element/vc_map_icon_box.php:101
+msgid "Description of your icon."
+msgstr ""
+
+#: ../vc_element/vc_map_icon_box.php:148
+msgid "Icon size"
+msgstr ""
+
+#: ../vc_element/vc_map_icon_tabs.php:6
+msgid "Service Icon Tabs"
+msgstr ""
+
+#: ../vc_element/vc_map_icon_tabs.php:7
+msgid "Services Icon Tab"
+msgstr ""
+
+#: ../vc_element/vc_map_icon_tabs.php:34
+msgid "Services Icon"
+msgstr ""
+
+#: ../vc_element/vc_map_icon_tabs.php:48
+msgid "Select Content"
+msgstr ""
+
+#: ../vc_element/vc_map_icon_tabs.php:60
+msgid "Custom HTML"
+msgstr ""
+
+#: ../vc_element/vc_map_icon_tabs.php:71
+msgid "Select Custom Template"
+msgstr ""
+
+#: ../vc_element/vc_map_pricing_plans.php:3
+msgid "Pricing Plans"
+msgstr ""
+
+#: ../vc_element/vc_map_pricing_plans.php:29
+msgid "Pricing Style"
+msgstr ""
+
+#: ../vc_element/vc_map_pricing_plans.php:40
+msgid "Pricing Plans Item"
+msgstr ""
+
+#: ../vc_element/vc_map_pricing_plans.php:73
+msgid "Notice"
+msgstr ""
+
+#: ../vc_element/vc_map_pricing_plans.php:79
+msgid "Log Image"
+msgstr ""
+
+#: ../vc_element/vc_map_service_banner.php:5
+msgid "Set banners here"
+msgstr ""
+
+#: ../vc_element/vc_map_service_banner.php:21
+msgid "Select background type."
+msgstr ""
+
+#: ../vc_element/vc_map_service_banner.php:85
+msgid "Banner slider will work for small devices"
+msgstr ""
+
+#: ../vc_element/vc_map_service_banner.php:133
+msgid "Enable Autoplay"
+msgstr ""
+
+#: ../vc_element/vc_map_service_banner.php:175
+msgid "Car Repair Marker List Services"
+msgstr ""
+
+#: ../vc_element/vc_map_services.php:22
+msgid "Order by"
+msgstr ""
+
+#: ../vc_element/vc_map_services.php:46
+msgid "Select Column"
+msgstr ""
+
+#: ../vc_element/vc_map_services.php:55
+msgid "Show Services With Page"
+msgstr ""
+
+#: ../vc_element/vc_map_services.php:64
+msgid "Show Details Link"
+msgstr ""
+
+#: ../vc_element/vc_map_services.php:73
+msgid "Show Link In Grid"
+msgstr ""
+
+#: ../vc_element/vc_map_services_banner_2.php:3
+msgid "Services Banner 2"
+msgstr ""
+
+#: ../vc_element/vc_map_services_banner_2.php:20
+msgid "Icon Class"
+msgstr ""
+
+#: ../vc_element/vc_map_services_banner_2.php:42
+msgid "Contact Number"
+msgstr ""
+
+#: ../vc_element/vc_map_services_banner_2.php:50
+msgid "Contact Details"
+msgstr ""
+
+#: ../vc_element/vc_map_services_banner_2.php:58
+msgid "Banner URL"
+msgstr ""
+
+#: ../vc_element/vc_map_slickslider.php:14
+#: ../vc_element/vc_map_slickslider_2.php:24 ../vc_element/vc_map_team.php:72
+#: ../vc_element/vc_map_team.php:141 ../vc_element/vc_map_testimonials.php:58
+msgid "Enable autoplay"
+msgstr ""
+
+#: ../vc_element/vc_map_slickslider.php:72
+#: ../vc_element/vc_map_slickslider_2.php:82
+msgid "Pause On Hover?"
+msgstr ""
+
+#: ../vc_element/vc_map_slickslider.php:83
+#: ../vc_element/vc_map_slickslider_2.php:93
+msgid "Pause On Dots Hover?"
+msgstr ""
+
+#: ../vc_element/vc_map_slickslider.php:154
+msgid "Animation Style"
+msgstr ""
+
+#: ../vc_element/vc_map_slickslider.php:214
+#: ../vc_element/vc_map_slickslider_2.php:189
+msgid "Unique ID"
+msgstr ""
+
+#: ../vc_element/vc_map_slickslider_2.php:14
+msgid "Animate Arrow"
+msgstr ""
+
+#: ../vc_element/vc_map_slickslider_2.php:176
+msgid "Schedule Service"
+msgstr ""
+
+#: ../vc_element/vc_map_team.php:22 ../vc_element/vc_map_team.php:34
+msgid "No of column of the team."
+msgstr ""
+
+#: ../vc_element/vc_map_testimonials.php:5
+msgid "Testimonials will work for small devices"
+msgstr ""
+
+#: ../vc_element/vc_map_testimonials_two.php:4
+msgid "Testimonials Two"
+msgstr ""
+
+#: ../vc_element/vc_map_trust_products.php:37
+msgid "<p>I am test text block. Click edit button to change this text.</p>"
+msgstr ""
+
+#: ../widgets/service-sidebar-menu.php:28
+msgid "Add a car repair services custom menu to your sidebar."
+msgstr ""
+
+#: ../widgets/service-sidebar-menu.php:31
+msgid "Service Menu"
+msgstr ""
+
+#: ../widgets/service-sidebar-menu.php:137
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: ../widgets/service-sidebar-menu.php:147
+msgid "Title:"
+msgstr ""
+
+#: ../widgets/service-sidebar-menu.php:151
+msgid "Select Menu:"
+msgstr ""
+
+#: ../widgets/service-sidebar-menu.php:153
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: ../widgets/service-sidebar-menu.php:171
+msgid "Edit Menu"
+msgstr ""
+
+#: ../widgets/smart-contact-list-widget.php:6
+msgid "Contacts"
+msgstr ""
+
+#: ../widgets/smart-contact-list-widget.php:20
+msgid "Car Services Contact List"
+msgstr ""
+
+#: ../widgets/smart-contact-list-widget.php:22
+msgid "This widget will display contact list."
+msgstr ""
+
+#: ../widgets/smart-contact-list-widget.php:38
+msgid "Address Title"
+msgstr ""
+
+#: ../widgets/smart-contact-list-widget.php:42
+msgid "Address"
+msgstr ""
+
+#: ../widgets/smart-contact-list-widget.php:46
+msgid "Phone Title"
+msgstr ""
+
+#: ../widgets/smart-contact-list-widget.php:50
+msgid "Phone"
+msgstr ""
+
+#: ../widgets/smart-contact-list-widget.php:54
+msgid "Email Title"
+msgstr ""
+
+#: ../widgets/smart-contact-list-widget.php:58
+msgid "Email"
+msgstr ""
+
+#: ../widgets/smart-contact-list-widget.php:62
+msgid "Hours Title"
+msgstr ""
+
+#: ../widgets/smart-contact-list-widget.php:66
+msgid "Hours"
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:6
+msgid "Popular Posts"
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:13
+msgid "Car-Services Posts Grid"
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:15
+msgid "This widget will display posts grid on sidebars."
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:32
+msgid "Order By:"
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:36
+msgid "Comments"
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:41
+msgid "Order:"
+msgstr ""
+
+#: ../widgets/smart-posts-grid-widget.php:49
+msgid "Posts Limit"
+msgstr ""
